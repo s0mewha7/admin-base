@@ -1,0 +1,5 @@
+/home/somewhat/CLionProjects/admin-base/cmake-build-debug/CMakeFiles/admin-base.dir
+/home/somewhat/CLionProjects/admin-base/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/somewhat/CLionProjects/admin-base/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/somewhat/CLionProjects/admin-base/cmake-build-debug/CMakeFiles/admin-base_autogen_timestamp_deps.dir
+/home/somewhat/CLionProjects/admin-base/cmake-build-debug/CMakeFiles/admin-base_autogen.dir

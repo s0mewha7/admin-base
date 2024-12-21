@@ -1,0 +1,35 @@
+[
+    {
+        "dateIn": "2023-06-01",
+        "dateOut": "2024-06-01",
+        "inventoryNumber": "5678",
+        "macAddress": "00:14:22:01:23:46",
+        "manufacturer": "HP",
+        "model": "Pavilion",
+        "os": "Windows 11",
+        "photo": "path/to/photo2.jpg",
+        "type": "Desktop"
+    },
+    {
+        "dateIn": "2023-04-10",
+        "dateOut": "2024-04-10",
+        "inventoryNumber": "91011",
+        "macAddress": "00:14:22:01:23:47",
+        "manufacturer": "Apple",
+        "model": "iPad Pro",
+        "os": "iOS",
+        "photo": "path/to/photo3.jpg",
+        "type": "Tablet"
+    },
+    {
+        "dateIn": "2023-04-10",
+        "dateOut": "2024-12-12",
+        "inventoryNumber": "12121",
+        "macAddress": "198.091.12.1",
+        "manufacturer": "Apple ",
+        "model": "Macbook Air",
+        "os": "MacOS",
+        "photo": "path/to/",
+        "type": "type "
+    }
+]
