@@ -1,10 +1,10 @@
-#include "src/mainwindow.h"
+#include "src/loginwindow.h"
 #include <QApplication>
+
 
 int main(int argc, char* argv[]) {
     QApplication app(argc, argv);
-    MainWindow window;
-    window.resize(800, 600);
-    window.show();
+    LoginWindow loginWindow;
+    loginWindow.show();
     return app.exec();
 }

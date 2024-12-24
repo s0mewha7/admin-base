@@ -12,6 +12,8 @@ qt_add_executable(admin-base
         src/mainwindow.cpp
         src/database.h
         src/database.cpp
+        src/loginwindow.cpp
+        src/loginwindow.h
 )
 
 target_include_directories(admin-base PRIVATE
