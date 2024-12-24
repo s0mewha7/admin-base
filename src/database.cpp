@@ -32,6 +32,7 @@ bool DataModel::setData(const QModelIndex& index, const QVariant& value, int rol
     m_data[index.row()] = obj;
 
     emit dataChanged(index, index);
+    saveToFile();
     return true;
 }
 
@@ -112,21 +113,22 @@ void DataModel::addRow() {
 }
 
 void DataModel::removeRow(int row) {
-    // Метод для удаления строки по индексу
     if (row < 0 || row >= m_data.size()) {
-        return; // Индекс вне допустимого диапазона
+        qWarning() << "Invalid row index for removal:" << row;
+        return;
     }
 
     beginRemoveRows(QModelIndex(), row, row);
     m_data.removeAt(row);
     endRemoveRows();
 
-    emit fileChanged(); // Генерируем сигнал о том, что данные изменились
+    emit fileChanged();
 
-    // Сохраняем изменения в файл, если необходимо
     if (!m_updatesLockedFile) {
-        saveToFile(); // Сохраняем новые данные в файл
+        saveToFile();
     }
+
+    qDebug() << "Row" << row << "deleted. Remaining data:" << m_data;
 }
 
 void DataModel::lockUpdates(bool lock) {

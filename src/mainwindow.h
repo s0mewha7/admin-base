@@ -23,4 +23,5 @@ private:
 
     void setupUi();
     void setupFileWatcher(const QString& filePath);
+    void deleteSelectedRow();
 };

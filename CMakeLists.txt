@@ -8,8 +8,9 @@ qt_standard_project_setup()
 
 qt_add_executable(admin-base
         main.cpp
+        src/mainwindow.h
         src/mainwindow.cpp
-        src/database.cpp
+        src/database.h
         src/database.cpp
 )
 

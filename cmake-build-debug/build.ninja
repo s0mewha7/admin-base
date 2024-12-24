@@ -147,7 +147,7 @@ build admin-base_autogen/timestamp admin-base_autogen/mocs_compilation.cpp | ${c
 #############################################
 # Phony custom command for CMakeFiles/admin-base_autogen_timestamp_deps
 
-build CMakeFiles/admin-base_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/admin-base_autogen_timestamp_deps: phony /usr/lib64/qt6/libexec/uic /usr/lib64/libQt6Sql.so.6.8.1 /usr/lib64/libQt6Widgets.so.6.8.1 /usr/lib64/qt6/libexec/moc /usr/lib64/libQt6Core.so.6.8.1
+build CMakeFiles/admin-base_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/admin-base_autogen_timestamp_deps: phony /usr/lib64/qt6/libexec/moc /usr/lib64/qt6/libexec/uic /usr/lib64/libQt6Core.so.6.8.1 /usr/lib64/libQt6Widgets.so.6.8.1 /usr/lib64/libQt6Sql.so.6.8.1
 
 
 #############################################

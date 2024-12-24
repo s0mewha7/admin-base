@@ -1,35 +1,6712 @@
 [
     {
-        "dateIn": "2023-06-01",
-        "dateOut": "2024-06-01",
-        "inventoryNumber": "5678",
-        "macAddress": "00:14:22:01:23:46",
-        "manufacturer": "HP",
-        "model": "Pavilion",
-        "os": "Windows 11",
-        "photo": "path/to/photo2.jpg",
-        "type": "Desktop"
+        "end_of_life_date": "30.05.2023",
+        "mac": "8c:75:01:ca:af:36",
+        "model": "i554",
+        "number": "67",
+        "os": "linux",
+        "production_date": "03.09.2016",
+        "supplier": "Intel",
+        "type": "laptop"
     },
     {
-        "dateIn": "2023-04-10",
-        "dateOut": "2024-04-10",
-        "inventoryNumber": "91011",
-        "macAddress": "00:14:22:01:23:47",
-        "manufacturer": "Apple",
-        "model": "iPad Pro",
-        "os": "iOS",
-        "photo": "path/to/photo3.jpg",
-        "type": "Tablet"
+        "end_of_life_date": "04.07.2028",
+        "mac": "44:d7:e2:a9:4d:fe",
+        "model": "i431",
+        "number": "47",
+        "os": "windows",
+        "production_date": "28.02.2019",
+        "supplier": "AMD",
+        "type": "laptop"
     },
     {
-        "dateIn": "2023-04-10",
-        "dateOut": "2024-12-12",
-        "inventoryNumber": "12121",
-        "macAddress": "198.091.12.1",
-        "manufacturer": "Apple ",
-        "model": "Macbook Air",
-        "os": "MacOS",
-        "photo": "path/to/",
-        "type": "type "
+        "end_of_life_date": "08.12.2032",
+        "mac": "98:f7:db:58:c6:07",
+        "model": "i872",
+        "number": "82",
+        "os": "mac",
+        "production_date": "25.01.2022",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "07.12.2032",
+        "mac": "12:a9:07:3b:8e:45",
+        "model": "i096",
+        "number": "96",
+        "os": "linux",
+        "production_date": "24.11.2020",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "31.07.2031",
+        "mac": "4a:b7:18:b7:e0:bd",
+        "model": "i781",
+        "number": "91",
+        "os": "windows",
+        "production_date": "03.08.2020",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "20.07.2027",
+        "mac": "cc:6b:81:32:db:47",
+        "model": "i824",
+        "number": "15",
+        "os": "windows",
+        "production_date": "13.12.2017",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "27.09.2027",
+        "mac": "ba:70:fd:58:0c:73",
+        "model": "i314",
+        "number": "72",
+        "os": "linux",
+        "production_date": "12.07.2021",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "19.06.2028",
+        "mac": "0c:43:44:60:6d:d7",
+        "model": "i346",
+        "number": "25",
+        "os": "linux",
+        "production_date": "20.04.2021",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "18.08.2029",
+        "mac": "1c:73:d2:00:36:de",
+        "model": "i543",
+        "number": "39",
+        "os": "mac",
+        "production_date": "29.07.2024",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "17.11.2030",
+        "mac": "32:f0:f7:fe:27:ec",
+        "model": "i411",
+        "number": "48",
+        "os": "mac",
+        "production_date": "16.10.2020",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "30.06.2029",
+        "mac": "4a:c7:d1:74:5a:44",
+        "model": "i619",
+        "number": "72",
+        "os": "windows",
+        "production_date": "09.06.2019",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "10.05.2026",
+        "mac": "44:c4:db:8d:1f:35",
+        "model": "i284",
+        "number": "71",
+        "os": "mac",
+        "production_date": "10.07.2023",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "05.12.2033",
+        "mac": "04:1d:4c:4f:d7:03",
+        "model": "i740",
+        "number": "23",
+        "os": "mac",
+        "production_date": "25.04.2017",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "28.03.2026",
+        "mac": "68:58:f1:c8:78:ab",
+        "model": "i223",
+        "number": "35",
+        "os": "linux",
+        "production_date": "03.07.2021",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "30.10.2032",
+        "mac": "22:f1:b7:2f:ff:ed",
+        "model": "i517",
+        "number": "35",
+        "os": "linux",
+        "production_date": "31.05.2021",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "28.06.2034",
+        "mac": "ac:31:72:21:6c:7a",
+        "model": "i398",
+        "number": "53",
+        "os": "mac",
+        "production_date": "24.10.2024",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "29.11.2032",
+        "mac": "96:ba:89:c8:94:16",
+        "model": "i641",
+        "number": "59",
+        "os": "mac",
+        "production_date": "15.11.2015",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "12.10.2033",
+        "mac": "06:46:0b:81:06:9b",
+        "model": "i857",
+        "number": "6",
+        "os": "linux",
+        "production_date": "20.10.2018",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "20.07.2029",
+        "mac": "5e:cf:ad:ce:15:9c",
+        "model": "i073",
+        "number": "62",
+        "os": "windows",
+        "production_date": "26.08.2023",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "21.11.2034",
+        "mac": "a0:af:4f:25:98:e1",
+        "model": "i655",
+        "number": "93",
+        "os": "linux",
+        "production_date": "15.12.2020",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "04.08.2034",
+        "mac": "50:08:e2:72:c2:f9",
+        "model": "i826",
+        "number": "76",
+        "os": "windows",
+        "production_date": "10.10.2017",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "07.04.2030",
+        "mac": "c8:b6:cd:4b:6a:4a",
+        "model": "i638",
+        "number": "21",
+        "os": "mac",
+        "production_date": "14.10.2015",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "07.03.2034",
+        "mac": "f8:cd:f7:0c:7f:b1",
+        "model": "i733",
+        "number": "66",
+        "os": "linux",
+        "production_date": "15.02.2022",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "12.01.2028",
+        "mac": "4a:6f:fe:32:c5:7a",
+        "model": "i888",
+        "number": "94",
+        "os": "mac",
+        "production_date": "07.11.2018",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "12.12.2028",
+        "mac": "fc:94:29:62:69:76",
+        "model": "i913",
+        "number": "16",
+        "os": "linux",
+        "production_date": "21.10.2015",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "14.10.2032",
+        "mac": "52:23:cd:c6:67:7c",
+        "model": "i362",
+        "number": "82",
+        "os": "linux",
+        "production_date": "22.12.2018",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "09.02.2028",
+        "mac": "26:cd:a5:45:1d:5d",
+        "model": "i746",
+        "number": "77",
+        "os": "windows",
+        "production_date": "04.07.2020",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "02.03.2033",
+        "mac": "ee:d6:cd:c4:41:d7",
+        "model": "i263",
+        "number": "48",
+        "os": "windows",
+        "production_date": "28.12.2014",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "15.12.2032",
+        "mac": "3e:79:32:cc:ac:bf",
+        "model": "i393",
+        "number": "63",
+        "os": "linux",
+        "production_date": "12.08.2015",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "21.06.2027",
+        "mac": "0e:4c:9c:ba:36:33",
+        "model": "i247",
+        "number": "28",
+        "os": "windows",
+        "production_date": "13.07.2022",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "26.09.2032",
+        "mac": "f8:f2:74:df:67:f2",
+        "model": "i821",
+        "number": "82",
+        "os": "mac",
+        "production_date": "09.03.2022",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "12.04.2031",
+        "mac": "d8:71:f3:48:7c:ab",
+        "model": "i964",
+        "number": "7",
+        "os": "mac",
+        "production_date": "07.12.2019",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "04.04.2030",
+        "mac": "62:56:1b:90:9c:da",
+        "model": "i084",
+        "number": "31",
+        "os": "windows",
+        "production_date": "02.04.2017",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "02.01.2033",
+        "mac": "e2:b6:79:08:3e:e2",
+        "model": "i027",
+        "number": "33",
+        "os": "mac",
+        "production_date": "29.07.2023",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "06.04.2028",
+        "mac": "8c:63:34:75:24:29",
+        "model": "i483",
+        "number": "72",
+        "os": "windows",
+        "production_date": "19.03.2019",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "16.01.2034",
+        "mac": "3e:e7:bb:50:17:3e",
+        "model": "i700",
+        "number": "97",
+        "os": "mac",
+        "production_date": "21.10.2018",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "12.05.2032",
+        "mac": "aa:d2:5b:1d:28:04",
+        "model": "i107",
+        "number": "47",
+        "os": "windows",
+        "production_date": "18.09.2016",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "04.03.2028",
+        "mac": "3a:50:96:67:4e:31",
+        "model": "i663",
+        "number": "64",
+        "os": "windows",
+        "production_date": "06.07.2016",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "05.03.2033",
+        "mac": "4e:28:40:06:82:2b",
+        "model": "i570",
+        "number": "27",
+        "os": "windows",
+        "production_date": "17.12.2016",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "17.02.2028",
+        "mac": "c4:bf:ab:78:bb:5c",
+        "model": "i242",
+        "number": "93",
+        "os": "windows",
+        "production_date": "19.05.2023",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "30.11.2026",
+        "mac": "92:66:ec:12:ec:62",
+        "model": "i730",
+        "number": "49",
+        "os": "mac",
+        "production_date": "10.06.2022",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "17.03.2029",
+        "mac": "4c:fb:20:30:17:81",
+        "model": "i194",
+        "number": "36",
+        "os": "linux",
+        "production_date": "27.05.2019",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "31.08.2031",
+        "mac": "f6:bd:d5:61:a7:62",
+        "model": "i021",
+        "number": "55",
+        "os": "mac",
+        "production_date": "11.05.2019",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "01.05.2032",
+        "mac": "7c:be:6a:8f:e5:f1",
+        "model": "i691",
+        "number": "11",
+        "os": "windows",
+        "production_date": "04.01.2017",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "01.10.2033",
+        "mac": "56:b8:1b:c2:25:a5",
+        "model": "i041",
+        "number": "24",
+        "os": "windows",
+        "production_date": "18.08.2018",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "23.01.2029",
+        "mac": "4c:d9:0e:16:20:26",
+        "model": "i973",
+        "number": "7",
+        "os": "windows",
+        "production_date": "30.04.2023",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "09.01.2029",
+        "mac": "40:7e:29:a4:17:ab",
+        "model": "i610",
+        "number": "89",
+        "os": "windows",
+        "production_date": "15.11.2021",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "15.09.2032",
+        "mac": "74:f2:b2:51:91:5d",
+        "model": "i605",
+        "number": "57",
+        "os": "windows",
+        "production_date": "13.07.2017",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "07.04.2029",
+        "mac": "6e:ab:69:2d:69:a1",
+        "model": "i186",
+        "number": "17",
+        "os": "linux",
+        "production_date": "24.09.2017",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "17.03.2033",
+        "mac": "68:4f:3d:c0:93:72",
+        "model": "i717",
+        "number": "60",
+        "os": "windows",
+        "production_date": "23.02.2021",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "03.08.2026",
+        "mac": "02:b2:c6:77:b2:f6",
+        "model": "i448",
+        "number": "64",
+        "os": "windows",
+        "production_date": "03.08.2019",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "22.07.2034",
+        "mac": "5c:8f:66:6b:a0:0f",
+        "model": "i579",
+        "number": "35",
+        "os": "linux",
+        "production_date": "08.07.2020",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "16.03.2034",
+        "mac": "4c:26:d3:74:7a:a6",
+        "model": "i467",
+        "number": "9",
+        "os": "mac",
+        "production_date": "22.09.2018",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "20.05.2030",
+        "mac": "da:a8:b0:af:c0:3f",
+        "model": "i173",
+        "number": "93",
+        "os": "linux",
+        "production_date": "29.10.2015",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "11.09.2028",
+        "mac": "3c:15:d5:f0:e4:bd",
+        "model": "i078",
+        "number": "36",
+        "os": "mac",
+        "production_date": "03.04.2019",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "07.01.2034",
+        "mac": "da:c2:a4:65:ee:57",
+        "model": "i107",
+        "number": "44",
+        "os": "linux",
+        "production_date": "20.11.2017",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "04.02.2034",
+        "mac": "54:4b:a7:dc:8e:a8",
+        "model": "i024",
+        "number": "27",
+        "os": "windows",
+        "production_date": "05.02.2015",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "05.07.2030",
+        "mac": "72:cc:73:88:a8:0f",
+        "model": "i750",
+        "number": "97",
+        "os": "linux",
+        "production_date": "26.09.2020",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "10.09.2027",
+        "mac": "bc:1b:65:69:59:1e",
+        "model": "i103",
+        "number": "20",
+        "os": "mac",
+        "production_date": "22.03.2016",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "21.01.2034",
+        "mac": "3c:60:51:cf:bb:2b",
+        "model": "i618",
+        "number": "65",
+        "os": "mac",
+        "production_date": "01.02.2022",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "06.03.2033",
+        "mac": "64:29:f2:ae:00:d5",
+        "model": "i531",
+        "number": "38",
+        "os": "linux",
+        "production_date": "02.04.2021",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "13.01.2034",
+        "mac": "28:3e:fd:3d:d1:03",
+        "model": "i130",
+        "number": "49",
+        "os": "mac",
+        "production_date": "08.08.2023",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "30.07.2026",
+        "mac": "be:0e:4d:b2:c9:d0",
+        "model": "i247",
+        "number": "76",
+        "os": "windows",
+        "production_date": "19.12.2022",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "05.01.2028",
+        "mac": "5a:e7:d1:10:7b:1c",
+        "model": "i276",
+        "number": "87",
+        "os": "windows",
+        "production_date": "07.04.2022",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "03.05.2029",
+        "mac": "de:9a:6b:3a:35:32",
+        "model": "i142",
+        "number": "65",
+        "os": "windows",
+        "production_date": "18.01.2020",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "05.09.2031",
+        "mac": "96:b3:59:d0:52:b0",
+        "model": "i896",
+        "number": "30",
+        "os": "linux",
+        "production_date": "21.06.2015",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "17.02.2034",
+        "mac": "8e:7c:a9:da:f0:22",
+        "model": "i493",
+        "number": "62",
+        "os": "windows",
+        "production_date": "01.03.2018",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "28.01.2030",
+        "mac": "be:c1:2a:cc:63:54",
+        "model": "i552",
+        "number": "65",
+        "os": "linux",
+        "production_date": "11.07.2021",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "25.12.2025",
+        "mac": "d2:5e:dc:99:d3:8b",
+        "model": "i223",
+        "number": "16",
+        "os": "linux",
+        "production_date": "09.08.2020",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "20.05.2027",
+        "mac": "c6:fd:12:1a:85:fe",
+        "model": "i671",
+        "number": "91",
+        "os": "mac",
+        "production_date": "26.01.2017",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "29.07.2034",
+        "mac": "e8:97:72:28:87:e3",
+        "model": "i579",
+        "number": "40",
+        "os": "linux",
+        "production_date": "11.12.2020",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "22.09.2032",
+        "mac": "7e:00:29:34:0a:a7",
+        "model": "i965",
+        "number": "97",
+        "os": "mac",
+        "production_date": "12.01.2015",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "04.12.2026",
+        "mac": "e8:f1:24:0a:c2:5e",
+        "model": "i268",
+        "number": "94",
+        "os": "linux",
+        "production_date": "22.04.2017",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "08.01.2032",
+        "mac": "08:c2:db:25:d4:5f",
+        "model": "i769",
+        "number": "17",
+        "os": "mac",
+        "production_date": "24.06.2022",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "08.03.2033",
+        "mac": "ce:ae:36:7f:1f:33",
+        "model": "i807",
+        "number": "79",
+        "os": "linux",
+        "production_date": "10.01.2018",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "09.03.2027",
+        "mac": "14:3a:0d:35:76:cf",
+        "model": "i002",
+        "number": "38",
+        "os": "linux",
+        "production_date": "16.09.2024",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "29.12.2032",
+        "mac": "f8:fe:d9:28:1f:fc",
+        "model": "i139",
+        "number": "98",
+        "os": "linux",
+        "production_date": "13.07.2018",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "03.09.2031",
+        "mac": "c8:c3:be:dd:f5:79",
+        "model": "i486",
+        "number": "53",
+        "os": "windows",
+        "production_date": "04.02.2018",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "13.09.2033",
+        "mac": "c0:f0:ec:91:c1:e9",
+        "model": "i569",
+        "number": "70",
+        "os": "mac",
+        "production_date": "20.11.2015",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "26.04.2033",
+        "mac": "82:aa:7b:76:5d:d7",
+        "model": "i394",
+        "number": "79",
+        "os": "linux",
+        "production_date": "17.06.2018",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "08.09.2032",
+        "mac": "6c:1a:c0:d6:1d:88",
+        "model": "i129",
+        "number": "74",
+        "os": "windows",
+        "production_date": "14.12.2016",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "02.03.2034",
+        "mac": "40:d1:bd:6d:4b:c4",
+        "model": "i704",
+        "number": "62",
+        "os": "mac",
+        "production_date": "12.05.2018",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "14.12.2026",
+        "mac": "e6:84:dc:18:48:f0",
+        "model": "i693",
+        "number": "25",
+        "os": "windows",
+        "production_date": "15.07.2018",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "09.03.2029",
+        "mac": "02:5a:b4:da:6f:c3",
+        "model": "i771",
+        "number": "26",
+        "os": "linux",
+        "production_date": "19.02.2020",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "07.09.2034",
+        "mac": "a6:45:e5:8b:07:1b",
+        "model": "i539",
+        "number": "31",
+        "os": "windows",
+        "production_date": "16.05.2019",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "18.09.2033",
+        "mac": "e4:72:fc:18:2e:55",
+        "model": "i193",
+        "number": "47",
+        "os": "windows",
+        "production_date": "01.02.2017",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "08.12.2028",
+        "mac": "dc:ed:f6:bb:e4:4e",
+        "model": "i101",
+        "number": "11",
+        "os": "mac",
+        "production_date": "02.02.2015",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "12.04.2032",
+        "mac": "5a:69:f3:d9:76:8a",
+        "model": "i351",
+        "number": "58",
+        "os": "linux",
+        "production_date": "15.04.2020",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "17.11.2026",
+        "mac": "30:ed:df:e8:40:90",
+        "model": "i663",
+        "number": "52",
+        "os": "windows",
+        "production_date": "22.04.2020",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "02.09.2031",
+        "mac": "78:5b:33:7b:33:ee",
+        "model": "i838",
+        "number": "95",
+        "os": "linux",
+        "production_date": "29.09.2017",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "18.10.2030",
+        "mac": "14:13:20:36:ae:07",
+        "model": "i324",
+        "number": "81",
+        "os": "windows",
+        "production_date": "09.02.2021",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "09.12.2030",
+        "mac": "1c:21:87:42:b7:87",
+        "model": "i317",
+        "number": "94",
+        "os": "linux",
+        "production_date": "13.08.2021",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "05.04.2033",
+        "mac": "fa:a7:4b:e3:6a:ee",
+        "model": "i818",
+        "number": "1",
+        "os": "mac",
+        "production_date": "31.10.2015",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "18.04.2027",
+        "mac": "4c:1d:bd:3a:aa:fd",
+        "model": "i115",
+        "number": "54",
+        "os": "mac",
+        "production_date": "06.09.2022",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "11.01.2032",
+        "mac": "f4:63:71:05:6e:ab",
+        "model": "i488",
+        "number": "34",
+        "os": "linux",
+        "production_date": "25.05.2020",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "08.03.2030",
+        "mac": "72:63:be:9e:2d:c5",
+        "model": "i306",
+        "number": "88",
+        "os": "mac",
+        "production_date": "19.01.2016",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "21.07.2030",
+        "mac": "50:34:11:17:40:8c",
+        "model": "i902",
+        "number": "67",
+        "os": "windows",
+        "production_date": "02.12.2019",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "15.03.2033",
+        "mac": "be:52:b9:15:9c:a9",
+        "model": "i245",
+        "number": "76",
+        "os": "mac",
+        "production_date": "24.07.2024",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "27.08.2030",
+        "mac": "ca:25:1b:1c:54:d2",
+        "model": "i384",
+        "number": "60",
+        "os": "mac",
+        "production_date": "04.07.2022",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "13.05.2032",
+        "mac": "30:4c:1c:f4:18:41",
+        "model": "i858",
+        "number": "33",
+        "os": "mac",
+        "production_date": "23.09.2019",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "23.09.2031",
+        "mac": "18:a1:42:33:bb:b0",
+        "model": "i986",
+        "number": "76",
+        "os": "mac",
+        "production_date": "29.04.2023",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "03.02.2028",
+        "mac": "ec:88:18:67:1e:1e",
+        "model": "i463",
+        "number": "31",
+        "os": "mac",
+        "production_date": "23.05.2017",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "28.01.2027",
+        "mac": "44:33:2e:14:51:53",
+        "model": "i008",
+        "number": "43",
+        "os": "windows",
+        "production_date": "04.04.2018",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "16.06.2028",
+        "mac": "8e:2f:1e:9d:6e:c8",
+        "model": "i043",
+        "number": "94",
+        "os": "mac",
+        "production_date": "29.03.2020",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "29.12.2030",
+        "mac": "e4:e6:da:f4:0e:99",
+        "model": "i757",
+        "number": "17",
+        "os": "linux",
+        "production_date": "07.04.2018",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "02.07.2032",
+        "mac": "62:69:94:33:6c:34",
+        "model": "i070",
+        "number": "1",
+        "os": "windows",
+        "production_date": "11.06.2019",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "24.03.2033",
+        "mac": "54:50:2e:d3:a3:89",
+        "model": "i373",
+        "number": "13",
+        "os": "linux",
+        "production_date": "07.08.2023",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "10.03.2033",
+        "mac": "68:3f:64:da:73:f1",
+        "model": "i596",
+        "number": "24",
+        "os": "linux",
+        "production_date": "11.09.2020",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "30.06.2033",
+        "mac": "80:87:6c:61:03:59",
+        "model": "i128",
+        "number": "58",
+        "os": "mac",
+        "production_date": "28.09.2019",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "25.11.2034",
+        "mac": "ea:08:27:ef:54:dd",
+        "model": "i676",
+        "number": "24",
+        "os": "windows",
+        "production_date": "28.10.2023",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "05.10.2030",
+        "mac": "88:d3:b6:e7:c2:c4",
+        "model": "i578",
+        "number": "93",
+        "os": "mac",
+        "production_date": "08.10.2018",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "14.10.2027",
+        "mac": "92:fb:ff:cf:da:7a",
+        "model": "i683",
+        "number": "25",
+        "os": "windows",
+        "production_date": "12.02.2022",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "01.07.2027",
+        "mac": "5a:84:32:07:46:24",
+        "model": "i961",
+        "number": "4",
+        "os": "linux",
+        "production_date": "21.07.2017",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "20.03.2030",
+        "mac": "a6:09:bb:af:b6:8c",
+        "model": "i264",
+        "number": "7",
+        "os": "mac",
+        "production_date": "30.07.2015",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "26.04.2029",
+        "mac": "24:00:86:34:3a:69",
+        "model": "i033",
+        "number": "36",
+        "os": "mac",
+        "production_date": "02.07.2023",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "22.07.2032",
+        "mac": "96:1c:ec:38:12:f5",
+        "model": "i811",
+        "number": "86",
+        "os": "windows",
+        "production_date": "05.05.2016",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "31.12.2032",
+        "mac": "b0:87:f3:69:fd:fb",
+        "model": "i047",
+        "number": "43",
+        "os": "mac",
+        "production_date": "01.08.2023",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "12.03.2030",
+        "mac": "50:45:47:1b:af:74",
+        "model": "i797",
+        "number": "46",
+        "os": "linux",
+        "production_date": "15.04.2017",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "12.06.2029",
+        "mac": "e4:d5:bc:85:f9:63",
+        "model": "i005",
+        "number": "5",
+        "os": "windows",
+        "production_date": "19.06.2015",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "02.02.2030",
+        "mac": "2e:96:f7:3a:dc:9b",
+        "model": "i358",
+        "number": "33",
+        "os": "mac",
+        "production_date": "11.12.2015",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "04.02.2033",
+        "mac": "e8:f5:17:57:5b:be",
+        "model": "i925",
+        "number": "68",
+        "os": "windows",
+        "production_date": "03.04.2017",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "14.06.2028",
+        "mac": "24:b6:15:b4:18:0e",
+        "model": "i619",
+        "number": "61",
+        "os": "linux",
+        "production_date": "30.07.2022",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "14.02.2029",
+        "mac": "88:03:f7:53:c5:20",
+        "model": "i387",
+        "number": "58",
+        "os": "mac",
+        "production_date": "16.12.2020",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "12.11.2033",
+        "mac": "00:30:ba:c0:96:ca",
+        "model": "i641",
+        "number": "45",
+        "os": "windows",
+        "production_date": "03.09.2021",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "02.12.2031",
+        "mac": "ec:c5:f8:62:57:8a",
+        "model": "i003",
+        "number": "76",
+        "os": "linux",
+        "production_date": "24.12.2023",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "13.04.2031",
+        "mac": "38:e2:4a:72:d9:f2",
+        "model": "i641",
+        "number": "98",
+        "os": "mac",
+        "production_date": "23.11.2022",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "25.08.2031",
+        "mac": "c6:5a:70:81:8a:f1",
+        "model": "i112",
+        "number": "57",
+        "os": "windows",
+        "production_date": "21.09.2023",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "30.07.2030",
+        "mac": "82:3e:32:03:05:a4",
+        "model": "i455",
+        "number": "86",
+        "os": "linux",
+        "production_date": "15.01.2019",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "08.07.2030",
+        "mac": "32:20:da:b4:98:68",
+        "model": "i884",
+        "number": "51",
+        "os": "linux",
+        "production_date": "09.02.2022",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "25.04.2032",
+        "mac": "60:1a:e5:a2:f6:f3",
+        "model": "i015",
+        "number": "47",
+        "os": "linux",
+        "production_date": "06.10.2018",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "18.03.2027",
+        "mac": "ea:c1:e1:f8:f5:f8",
+        "model": "i797",
+        "number": "1",
+        "os": "linux",
+        "production_date": "03.01.2024",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "11.06.2034",
+        "mac": "56:48:5a:d7:26:17",
+        "model": "i328",
+        "number": "51",
+        "os": "windows",
+        "production_date": "17.04.2022",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "10.05.2029",
+        "mac": "7c:03:5e:86:a3:4f",
+        "model": "i105",
+        "number": "91",
+        "os": "mac",
+        "production_date": "09.05.2015",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "28.02.2034",
+        "mac": "5a:6c:c9:7e:5a:c0",
+        "model": "i528",
+        "number": "89",
+        "os": "windows",
+        "production_date": "20.11.2018",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "01.11.2034",
+        "mac": "a2:e0:6a:46:41:e4",
+        "model": "i959",
+        "number": "73",
+        "os": "mac",
+        "production_date": "02.11.2019",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "17.08.2034",
+        "mac": "3e:04:eb:d3:bd:3a",
+        "model": "i961",
+        "number": "5",
+        "os": "windows",
+        "production_date": "11.04.2018",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "07.08.2029",
+        "mac": "b0:7c:94:9d:2d:2d",
+        "model": "i140",
+        "number": "91",
+        "os": "mac",
+        "production_date": "25.01.2023",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "17.05.2026",
+        "mac": "94:ee:c7:bc:6e:d2",
+        "model": "i672",
+        "number": "10",
+        "os": "mac",
+        "production_date": "19.01.2024",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "28.08.2028",
+        "mac": "ae:51:81:65:de:7a",
+        "model": "i406",
+        "number": "89",
+        "os": "linux",
+        "production_date": "15.11.2023",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "10.12.2034",
+        "mac": "e8:a6:ac:e4:6d:8a",
+        "model": "i217",
+        "number": "7",
+        "os": "mac",
+        "production_date": "14.07.2018",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "17.01.2028",
+        "mac": "42:0f:e7:b9:0e:f1",
+        "model": "i648",
+        "number": "57",
+        "os": "windows",
+        "production_date": "02.02.2022",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "31.12.2033",
+        "mac": "46:3b:49:f3:3d:46",
+        "model": "i491",
+        "number": "14",
+        "os": "mac",
+        "production_date": "16.11.2021",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "13.12.2032",
+        "mac": "24:f0:28:f2:2b:cb",
+        "model": "i308",
+        "number": "94",
+        "os": "mac",
+        "production_date": "06.06.2017",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "10.01.2033",
+        "mac": "7e:f4:bf:27:07:d3",
+        "model": "i101",
+        "number": "85",
+        "os": "linux",
+        "production_date": "15.06.2018",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "04.09.2033",
+        "mac": "94:39:11:3c:4f:3b",
+        "model": "i796",
+        "number": "77",
+        "os": "windows",
+        "production_date": "02.07.2017",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "08.03.2027",
+        "mac": "4c:a6:49:07:0e:eb",
+        "model": "i043",
+        "number": "62",
+        "os": "linux",
+        "production_date": "02.10.2021",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "17.11.2027",
+        "mac": "fc:48:68:f2:d6:52",
+        "model": "i958",
+        "number": "35",
+        "os": "linux",
+        "production_date": "26.12.2019",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "22.11.2033",
+        "mac": "5e:7c:2b:57:5a:b8",
+        "model": "i320",
+        "number": "69",
+        "os": "windows",
+        "production_date": "11.09.2018",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "03.10.2028",
+        "mac": "5a:46:b1:06:d6:37",
+        "model": "i042",
+        "number": "91",
+        "os": "mac",
+        "production_date": "30.12.2021",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "26.02.2026",
+        "mac": "8c:ef:31:2b:df:48",
+        "model": "i890",
+        "number": "91",
+        "os": "linux",
+        "production_date": "05.04.2017",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "10.10.2028",
+        "mac": "d6:a0:58:02:1e:e3",
+        "model": "i972",
+        "number": "1",
+        "os": "windows",
+        "production_date": "29.06.2020",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "12.12.2033",
+        "mac": "3c:d7:06:98:70:33",
+        "model": "i965",
+        "number": "42",
+        "os": "linux",
+        "production_date": "09.06.2018",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "23.12.2028",
+        "mac": "24:4a:61:e0:e4:9b",
+        "model": "i604",
+        "number": "60",
+        "os": "linux",
+        "production_date": "13.01.2024",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "22.09.2029",
+        "mac": "30:14:b3:66:d5:1c",
+        "model": "i692",
+        "number": "68",
+        "os": "mac",
+        "production_date": "12.07.2023",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "07.01.2028",
+        "mac": "f6:a0:cf:36:a9:20",
+        "model": "i159",
+        "number": "23",
+        "os": "linux",
+        "production_date": "23.10.2017",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "26.10.2034",
+        "mac": "2a:33:2e:77:fa:ac",
+        "model": "i108",
+        "number": "83",
+        "os": "linux",
+        "production_date": "07.02.2015",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "13.01.2034",
+        "mac": "18:f6:d4:d7:b1:cd",
+        "model": "i606",
+        "number": "40",
+        "os": "linux",
+        "production_date": "05.04.2018",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "19.04.2029",
+        "mac": "2a:32:f6:17:b7:f7",
+        "model": "i573",
+        "number": "33",
+        "os": "mac",
+        "production_date": "08.04.2019",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "18.11.2030",
+        "mac": "1a:e3:6c:6a:98:3b",
+        "model": "i908",
+        "number": "99",
+        "os": "mac",
+        "production_date": "29.04.2015",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "05.02.2033",
+        "mac": "34:0c:d4:38:80:a2",
+        "model": "i920",
+        "number": "40",
+        "os": "mac",
+        "production_date": "30.08.2022",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "27.07.2028",
+        "mac": "34:7e:97:e0:e4:ac",
+        "model": "i890",
+        "number": "4",
+        "os": "windows",
+        "production_date": "20.02.2016",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "08.12.2026",
+        "mac": "c6:9f:6c:d8:df:73",
+        "model": "i542",
+        "number": "6",
+        "os": "linux",
+        "production_date": "19.11.2020",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "01.02.2029",
+        "mac": "0e:45:de:da:cd:db",
+        "model": "i949",
+        "number": "68",
+        "os": "mac",
+        "production_date": "31.05.2022",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "14.01.2030",
+        "mac": "20:43:15:ec:1a:2f",
+        "model": "i062",
+        "number": "74",
+        "os": "windows",
+        "production_date": "04.05.2015",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "03.11.2027",
+        "mac": "e6:2a:17:be:c2:fa",
+        "model": "i175",
+        "number": "28",
+        "os": "windows",
+        "production_date": "20.03.2022",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "02.11.2028",
+        "mac": "ae:65:f5:25:9e:80",
+        "model": "i433",
+        "number": "50",
+        "os": "windows",
+        "production_date": "23.11.2021",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "11.12.2031",
+        "mac": "00:02:81:6f:cd:6c",
+        "model": "i229",
+        "number": "97",
+        "os": "linux",
+        "production_date": "15.06.2021",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "23.10.2028",
+        "mac": "94:24:5e:18:e0:97",
+        "model": "i540",
+        "number": "44",
+        "os": "mac",
+        "production_date": "30.01.2022",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "11.09.2026",
+        "mac": "98:0d:dd:e3:98:1c",
+        "model": "i144",
+        "number": "23",
+        "os": "linux",
+        "production_date": "30.01.2017",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "03.08.2026",
+        "mac": "8c:e5:3b:0c:00:1b",
+        "model": "i782",
+        "number": "48",
+        "os": "windows",
+        "production_date": "09.10.2019",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "10.03.2033",
+        "mac": "80:2a:39:07:49:80",
+        "model": "i134",
+        "number": "20",
+        "os": "windows",
+        "production_date": "23.09.2015",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "03.06.2033",
+        "mac": "ac:3d:7a:02:2a:5f",
+        "model": "i097",
+        "number": "62",
+        "os": "windows",
+        "production_date": "16.07.2021",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "28.07.2031",
+        "mac": "78:01:e9:e5:3b:83",
+        "model": "i612",
+        "number": "35",
+        "os": "mac",
+        "production_date": "09.10.2020",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "30.07.2026",
+        "mac": "04:a1:04:29:92:f9",
+        "model": "i856",
+        "number": "45",
+        "os": "windows",
+        "production_date": "20.07.2017",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "09.05.2034",
+        "mac": "62:1e:4a:df:09:cd",
+        "model": "i565",
+        "number": "87",
+        "os": "mac",
+        "production_date": "02.09.2015",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "28.01.2026",
+        "mac": "44:13:6d:7d:4e:f2",
+        "model": "i379",
+        "number": "84",
+        "os": "mac",
+        "production_date": "20.03.2022",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "03.06.2031",
+        "mac": "54:37:38:f2:dc:4b",
+        "model": "i718",
+        "number": "54",
+        "os": "linux",
+        "production_date": "18.09.2018",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "20.09.2029",
+        "mac": "3e:d1:b0:b1:1e:a8",
+        "model": "i354",
+        "number": "98",
+        "os": "linux",
+        "production_date": "02.11.2022",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "16.03.2026",
+        "mac": "46:d5:ec:19:ab:16",
+        "model": "i293",
+        "number": "15",
+        "os": "mac",
+        "production_date": "13.06.2015",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "11.05.2029",
+        "mac": "16:a6:68:5c:1d:4f",
+        "model": "i288",
+        "number": "74",
+        "os": "mac",
+        "production_date": "07.03.2018",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "15.11.2027",
+        "mac": "16:65:a4:09:13:cc",
+        "model": "i286",
+        "number": "71",
+        "os": "linux",
+        "production_date": "16.08.2020",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "07.02.2029",
+        "mac": "fa:12:78:ca:e2:b7",
+        "model": "i089",
+        "number": "97",
+        "os": "windows",
+        "production_date": "26.11.2023",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "30.06.2031",
+        "mac": "30:df:0a:3e:fa:87",
+        "model": "i386",
+        "number": "38",
+        "os": "linux",
+        "production_date": "18.10.2017",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "16.09.2028",
+        "mac": "04:f0:2e:fa:4b:99",
+        "model": "i354",
+        "number": "22",
+        "os": "windows",
+        "production_date": "22.11.2019",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "29.03.2027",
+        "mac": "1a:9f:9e:60:6c:80",
+        "model": "i682",
+        "number": "82",
+        "os": "mac",
+        "production_date": "24.11.2024",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "30.08.2032",
+        "mac": "14:a7:f5:27:08:f1",
+        "model": "i713",
+        "number": "59",
+        "os": "mac",
+        "production_date": "08.09.2023",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "03.08.2033",
+        "mac": "70:55:3f:db:2c:32",
+        "model": "i625",
+        "number": "11",
+        "os": "mac",
+        "production_date": "10.06.2018",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "25.08.2031",
+        "mac": "00:9e:28:83:e6:30",
+        "model": "i794",
+        "number": "43",
+        "os": "linux",
+        "production_date": "24.07.2023",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "13.09.2027",
+        "mac": "0a:2f:4b:80:d4:0e",
+        "model": "i488",
+        "number": "47",
+        "os": "windows",
+        "production_date": "26.03.2022",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "17.04.2031",
+        "mac": "36:31:bb:81:d0:8c",
+        "model": "i280",
+        "number": "10",
+        "os": "windows",
+        "production_date": "31.10.2021",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "12.11.2032",
+        "mac": "a0:62:51:02:c9:03",
+        "model": "i822",
+        "number": "74",
+        "os": "mac",
+        "production_date": "06.01.2018",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "13.01.2031",
+        "mac": "de:a5:b7:d2:be:50",
+        "model": "i807",
+        "number": "78",
+        "os": "windows",
+        "production_date": "10.03.2015",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "18.10.2026",
+        "mac": "86:3d:f5:9f:59:47",
+        "model": "i304",
+        "number": "84",
+        "os": "windows",
+        "production_date": "22.03.2017",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "06.01.2031",
+        "mac": "1a:cc:87:8b:c4:0b",
+        "model": "i369",
+        "number": "18",
+        "os": "linux",
+        "production_date": "13.09.2015",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "04.12.2033",
+        "mac": "d0:ce:3e:f9:8e:d9",
+        "model": "i888",
+        "number": "50",
+        "os": "windows",
+        "production_date": "20.02.2016",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "08.11.2033",
+        "mac": "ca:e2:a5:5a:c9:07",
+        "model": "i552",
+        "number": "85",
+        "os": "linux",
+        "production_date": "21.12.2018",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "19.10.2029",
+        "mac": "1a:a8:f4:fa:08:35",
+        "model": "i093",
+        "number": "43",
+        "os": "mac",
+        "production_date": "19.09.2024",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "19.03.2027",
+        "mac": "58:5e:5f:bb:5c:73",
+        "model": "i682",
+        "number": "43",
+        "os": "mac",
+        "production_date": "21.05.2021",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "06.07.2029",
+        "mac": "1c:56:dd:aa:13:79",
+        "model": "i807",
+        "number": "52",
+        "os": "mac",
+        "production_date": "25.04.2021",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "28.03.2031",
+        "mac": "38:43:5b:98:f5:3a",
+        "model": "i880",
+        "number": "72",
+        "os": "linux",
+        "production_date": "24.07.2023",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "19.01.2029",
+        "mac": "e6:00:a4:1a:fb:16",
+        "model": "i528",
+        "number": "19",
+        "os": "windows",
+        "production_date": "12.06.2015",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "09.06.2028",
+        "mac": "52:3f:42:94:11:dd",
+        "model": "i356",
+        "number": "99",
+        "os": "windows",
+        "production_date": "12.09.2021",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "26.03.2027",
+        "mac": "f0:a9:ea:ba:65:c7",
+        "model": "i718",
+        "number": "90",
+        "os": "linux",
+        "production_date": "08.03.2017",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "26.10.2029",
+        "mac": "14:bf:2d:f4:c2:90",
+        "model": "i035",
+        "number": "17",
+        "os": "mac",
+        "production_date": "12.10.2023",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "19.09.2033",
+        "mac": "3e:44:7d:1d:f3:25",
+        "model": "i042",
+        "number": "45",
+        "os": "linux",
+        "production_date": "28.01.2019",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "22.12.2033",
+        "mac": "74:6f:86:59:65:4e",
+        "model": "i710",
+        "number": "90",
+        "os": "windows",
+        "production_date": "21.10.2024",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "27.03.2026",
+        "mac": "4e:ae:bd:e7:3d:29",
+        "model": "i865",
+        "number": "43",
+        "os": "linux",
+        "production_date": "18.06.2023",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "27.01.2028",
+        "mac": "5a:58:4c:d4:7e:53",
+        "model": "i147",
+        "number": "54",
+        "os": "windows",
+        "production_date": "18.05.2018",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "30.09.2029",
+        "mac": "04:da:5f:b8:f9:f0",
+        "model": "i123",
+        "number": "75",
+        "os": "windows",
+        "production_date": "14.09.2017",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "09.05.2029",
+        "mac": "62:f1:db:b9:b9:40",
+        "model": "i523",
+        "number": "78",
+        "os": "mac",
+        "production_date": "12.05.2023",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "14.04.2034",
+        "mac": "74:e7:7f:89:22:58",
+        "model": "i554",
+        "number": "16",
+        "os": "windows",
+        "production_date": "06.03.2019",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "23.04.2027",
+        "mac": "56:2d:9b:8f:c9:47",
+        "model": "i055",
+        "number": "46",
+        "os": "windows",
+        "production_date": "27.03.2024",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "30.07.2031",
+        "mac": "42:5f:c4:3c:50:6d",
+        "model": "i391",
+        "number": "55",
+        "os": "windows",
+        "production_date": "24.10.2016",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "25.01.2027",
+        "mac": "04:60:2f:64:b1:d0",
+        "model": "i074",
+        "number": "72",
+        "os": "linux",
+        "production_date": "14.12.2019",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "28.02.2028",
+        "mac": "f0:8d:a8:a8:b1:2c",
+        "model": "i550",
+        "number": "25",
+        "os": "mac",
+        "production_date": "24.11.2020",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "28.05.2026",
+        "mac": "58:2f:f9:05:2a:f8",
+        "model": "i406",
+        "number": "94",
+        "os": "mac",
+        "production_date": "29.09.2023",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "13.06.2029",
+        "mac": "e2:c9:ee:62:3e:68",
+        "model": "i177",
+        "number": "84",
+        "os": "linux",
+        "production_date": "21.04.2019",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "16.06.2031",
+        "mac": "ec:94:cb:d8:58:89",
+        "model": "i427",
+        "number": "35",
+        "os": "windows",
+        "production_date": "05.09.2017",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "22.03.2030",
+        "mac": "34:5e:80:c8:3d:a8",
+        "model": "i802",
+        "number": "16",
+        "os": "windows",
+        "production_date": "16.02.2024",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "25.04.2032",
+        "mac": "1e:fc:5a:64:b0:c4",
+        "model": "i323",
+        "number": "73",
+        "os": "linux",
+        "production_date": "07.01.2018",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "11.10.2032",
+        "mac": "5c:9f:99:be:b1:0a",
+        "model": "i997",
+        "number": "15",
+        "os": "windows",
+        "production_date": "21.03.2016",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "17.02.2029",
+        "mac": "de:c7:67:db:80:b3",
+        "model": "i218",
+        "number": "64",
+        "os": "mac",
+        "production_date": "07.08.2018",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "11.04.2030",
+        "mac": "50:13:a9:f4:71:e6",
+        "model": "i081",
+        "number": "66",
+        "os": "mac",
+        "production_date": "04.01.2018",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "11.04.2028",
+        "mac": "60:d9:ca:a8:e2:80",
+        "model": "i594",
+        "number": "16",
+        "os": "mac",
+        "production_date": "03.09.2015",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "14.06.2029",
+        "mac": "08:a8:0e:cf:d2:f0",
+        "model": "i030",
+        "number": "53",
+        "os": "windows",
+        "production_date": "08.05.2019",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "08.12.2031",
+        "mac": "92:37:2a:81:a1:21",
+        "model": "i721",
+        "number": "65",
+        "os": "windows",
+        "production_date": "25.07.2018",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "15.10.2030",
+        "mac": "48:81:d2:5e:28:f2",
+        "model": "i900",
+        "number": "58",
+        "os": "linux",
+        "production_date": "04.01.2016",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "09.03.2034",
+        "mac": "4a:9f:d6:56:2c:dc",
+        "model": "i998",
+        "number": "89",
+        "os": "windows",
+        "production_date": "03.07.2024",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "20.11.2027",
+        "mac": "5e:07:05:9e:c5:0a",
+        "model": "i298",
+        "number": "72",
+        "os": "windows",
+        "production_date": "05.08.2019",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "21.01.2031",
+        "mac": "b0:f6:2c:86:34:50",
+        "model": "i788",
+        "number": "50",
+        "os": "linux",
+        "production_date": "25.01.2020",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "13.04.2034",
+        "mac": "d2:09:0c:e0:55:09",
+        "model": "i796",
+        "number": "63",
+        "os": "mac",
+        "production_date": "15.05.2022",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "03.10.2032",
+        "mac": "a6:b3:20:e0:06:57",
+        "model": "i251",
+        "number": "85",
+        "os": "mac",
+        "production_date": "13.05.2015",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "01.12.2031",
+        "mac": "68:0d:06:a4:2a:c3",
+        "model": "i431",
+        "number": "63",
+        "os": "mac",
+        "production_date": "07.06.2019",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "22.11.2028",
+        "mac": "36:7e:ef:25:61:83",
+        "model": "i012",
+        "number": "80",
+        "os": "windows",
+        "production_date": "20.01.2022",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "10.03.2031",
+        "mac": "30:51:e8:83:10:b8",
+        "model": "i708",
+        "number": "6",
+        "os": "windows",
+        "production_date": "30.05.2021",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "18.08.2028",
+        "mac": "ca:de:47:b1:5f:9b",
+        "model": "i949",
+        "number": "51",
+        "os": "mac",
+        "production_date": "10.05.2018",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "13.10.2032",
+        "mac": "98:96:37:09:30:e9",
+        "model": "i509",
+        "number": "94",
+        "os": "linux",
+        "production_date": "24.10.2021",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "02.12.2028",
+        "mac": "80:72:bb:17:21:98",
+        "model": "i545",
+        "number": "29",
+        "os": "linux",
+        "production_date": "19.02.2023",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "09.04.2031",
+        "mac": "b2:1f:b6:c4:a8:5d",
+        "model": "i933",
+        "number": "27",
+        "os": "mac",
+        "production_date": "15.08.2017",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "14.08.2029",
+        "mac": "16:e6:d1:e4:bb:ac",
+        "model": "i596",
+        "number": "77",
+        "os": "windows",
+        "production_date": "13.06.2023",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "22.01.2032",
+        "mac": "7a:05:96:47:69:2f",
+        "model": "i355",
+        "number": "40",
+        "os": "mac",
+        "production_date": "27.12.2018",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "13.05.2032",
+        "mac": "ae:96:92:20:c1:49",
+        "model": "i328",
+        "number": "19",
+        "os": "windows",
+        "production_date": "13.03.2022",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "03.06.2029",
+        "mac": "fa:5b:a5:e9:c6:c4",
+        "model": "i471",
+        "number": "53",
+        "os": "mac",
+        "production_date": "07.06.2019",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "30.01.2026",
+        "mac": "5e:d3:d7:cb:df:0c",
+        "model": "i557",
+        "number": "77",
+        "os": "windows",
+        "production_date": "06.02.2016",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "24.05.2029",
+        "mac": "6c:bd:62:ca:ab:d4",
+        "model": "i508",
+        "number": "21",
+        "os": "windows",
+        "production_date": "12.02.2018",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "25.08.2027",
+        "mac": "1e:a1:28:b5:b8:bd",
+        "model": "i924",
+        "number": "23",
+        "os": "windows",
+        "production_date": "28.12.2017",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "09.02.2027",
+        "mac": "ca:99:6f:12:62:fc",
+        "model": "i898",
+        "number": "86",
+        "os": "linux",
+        "production_date": "06.05.2023",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "29.11.2031",
+        "mac": "e2:24:2a:01:dd:78",
+        "model": "i783",
+        "number": "96",
+        "os": "windows",
+        "production_date": "07.02.2015",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "09.12.2027",
+        "mac": "50:bb:a0:9d:5f:2d",
+        "model": "i967",
+        "number": "90",
+        "os": "linux",
+        "production_date": "14.09.2023",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "18.04.2028",
+        "mac": "2a:87:b6:9f:4e:1a",
+        "model": "i634",
+        "number": "54",
+        "os": "linux",
+        "production_date": "25.01.2016",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "09.02.2033",
+        "mac": "5c:1b:47:b3:f6:24",
+        "model": "i742",
+        "number": "29",
+        "os": "windows",
+        "production_date": "20.11.2019",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "25.10.2033",
+        "mac": "90:bb:a3:05:40:e0",
+        "model": "i958",
+        "number": "91",
+        "os": "linux",
+        "production_date": "14.08.2016",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "30.03.2026",
+        "mac": "0c:9b:08:b9:7f:7e",
+        "model": "i312",
+        "number": "81",
+        "os": "linux",
+        "production_date": "15.11.2022",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "08.06.2032",
+        "mac": "42:71:11:b8:48:08",
+        "model": "i686",
+        "number": "63",
+        "os": "windows",
+        "production_date": "04.07.2017",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "07.10.2030",
+        "mac": "d8:2a:09:5b:46:1c",
+        "model": "i396",
+        "number": "82",
+        "os": "linux",
+        "production_date": "17.09.2015",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "30.09.2030",
+        "mac": "8e:9b:f2:46:9b:8a",
+        "model": "i796",
+        "number": "45",
+        "os": "linux",
+        "production_date": "19.10.2022",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "17.05.2026",
+        "mac": "10:2b:54:95:78:a5",
+        "model": "i401",
+        "number": "62",
+        "os": "windows",
+        "production_date": "02.03.2019",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "30.01.2030",
+        "mac": "d0:e3:12:11:3f:5c",
+        "model": "i886",
+        "number": "36",
+        "os": "windows",
+        "production_date": "22.01.2022",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "07.10.2027",
+        "mac": "b4:be:a6:0f:e1:b9",
+        "model": "i899",
+        "number": "1",
+        "os": "windows",
+        "production_date": "23.12.2018",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "01.06.2026",
+        "mac": "1c:ad:79:a6:01:3a",
+        "model": "i340",
+        "number": "7",
+        "os": "linux",
+        "production_date": "28.06.2019",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "11.07.2032",
+        "mac": "90:a8:31:c1:2b:f0",
+        "model": "i924",
+        "number": "29",
+        "os": "windows",
+        "production_date": "04.02.2019",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "27.06.2027",
+        "mac": "16:79:bf:42:16:48",
+        "model": "i677",
+        "number": "83",
+        "os": "windows",
+        "production_date": "08.01.2015",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "13.10.2034",
+        "mac": "c4:dd:d2:4c:5b:a1",
+        "model": "i466",
+        "number": "53",
+        "os": "windows",
+        "production_date": "04.04.2019",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "11.08.2032",
+        "mac": "96:fa:98:1a:86:a6",
+        "model": "i212",
+        "number": "75",
+        "os": "windows",
+        "production_date": "12.10.2019",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "04.08.2028",
+        "mac": "42:aa:b5:b1:b1:3c",
+        "model": "i595",
+        "number": "2",
+        "os": "mac",
+        "production_date": "24.05.2020",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "19.08.2034",
+        "mac": "f2:0b:6e:bb:89:bd",
+        "model": "i293",
+        "number": "16",
+        "os": "mac",
+        "production_date": "21.02.2024",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "09.03.2029",
+        "mac": "c6:7c:5a:3b:fe:2a",
+        "model": "i921",
+        "number": "62",
+        "os": "linux",
+        "production_date": "27.05.2015",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "22.11.2027",
+        "mac": "f6:4f:e4:f8:8c:87",
+        "model": "i785",
+        "number": "98",
+        "os": "windows",
+        "production_date": "13.08.2022",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "25.10.2026",
+        "mac": "22:b9:69:ef:75:45",
+        "model": "i363",
+        "number": "4",
+        "os": "linux",
+        "production_date": "10.08.2021",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "20.10.2028",
+        "mac": "3e:7b:9a:3b:88:01",
+        "model": "i269",
+        "number": "27",
+        "os": "linux",
+        "production_date": "12.04.2022",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "01.11.2027",
+        "mac": "00:ab:8b:5c:a1:2d",
+        "model": "i082",
+        "number": "37",
+        "os": "windows",
+        "production_date": "30.10.2021",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "14.10.2032",
+        "mac": "de:31:3e:a1:9d:8b",
+        "model": "i761",
+        "number": "56",
+        "os": "mac",
+        "production_date": "19.11.2021",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "17.03.2030",
+        "mac": "2c:1c:2f:0b:ed:3b",
+        "model": "i453",
+        "number": "43",
+        "os": "linux",
+        "production_date": "05.11.2021",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "07.12.2032",
+        "mac": "b6:2a:a5:e4:bc:71",
+        "model": "i118",
+        "number": "79",
+        "os": "windows",
+        "production_date": "05.12.2018",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "13.04.2028",
+        "mac": "b4:a5:40:ad:c7:e0",
+        "model": "i103",
+        "number": "72",
+        "os": "mac",
+        "production_date": "27.06.2021",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "30.09.2027",
+        "mac": "02:53:3f:5b:e0:db",
+        "model": "i530",
+        "number": "21",
+        "os": "windows",
+        "production_date": "10.02.2022",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "03.03.2029",
+        "mac": "3e:74:8e:74:4a:54",
+        "model": "i496",
+        "number": "58",
+        "os": "linux",
+        "production_date": "19.09.2024",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "28.08.2027",
+        "mac": "a8:a8:57:74:f1:3a",
+        "model": "i276",
+        "number": "67",
+        "os": "windows",
+        "production_date": "12.09.2016",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "23.12.2032",
+        "mac": "ca:f2:0c:89:21:2d",
+        "model": "i962",
+        "number": "3",
+        "os": "mac",
+        "production_date": "30.03.2019",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "30.01.2028",
+        "mac": "5c:bc:73:86:dc:01",
+        "model": "i391",
+        "number": "80",
+        "os": "mac",
+        "production_date": "25.09.2017",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "13.06.2031",
+        "mac": "10:df:b3:ea:4a:cd",
+        "model": "i401",
+        "number": "5",
+        "os": "linux",
+        "production_date": "08.04.2018",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "30.04.2031",
+        "mac": "6a:59:70:cc:ba:e5",
+        "model": "i982",
+        "number": "28",
+        "os": "linux",
+        "production_date": "26.02.2024",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "17.02.2026",
+        "mac": "50:3a:a3:bd:c4:69",
+        "model": "i918",
+        "number": "100",
+        "os": "linux",
+        "production_date": "19.10.2018",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "08.07.2034",
+        "mac": "b0:1f:98:40:ff:cb",
+        "model": "i105",
+        "number": "65",
+        "os": "windows",
+        "production_date": "09.04.2021",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "05.06.2026",
+        "mac": "f2:9f:a5:24:d9:37",
+        "model": "i395",
+        "number": "19",
+        "os": "linux",
+        "production_date": "19.05.2019",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "04.02.2029",
+        "mac": "2c:4d:b2:58:db:1b",
+        "model": "i266",
+        "number": "60",
+        "os": "linux",
+        "production_date": "14.01.2017",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "13.04.2028",
+        "mac": "0e:7f:52:d2:d9:8f",
+        "model": "i186",
+        "number": "98",
+        "os": "mac",
+        "production_date": "22.04.2019",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "26.08.2030",
+        "mac": "54:63:3a:a5:58:86",
+        "model": "i402",
+        "number": "73",
+        "os": "linux",
+        "production_date": "31.01.2023",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "30.03.2033",
+        "mac": "28:97:41:ba:b2:e8",
+        "model": "i682",
+        "number": "86",
+        "os": "mac",
+        "production_date": "24.06.2019",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "20.12.2026",
+        "mac": "36:68:2e:46:0d:4a",
+        "model": "i173",
+        "number": "12",
+        "os": "linux",
+        "production_date": "17.05.2018",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "04.02.2028",
+        "mac": "c6:e7:a8:c9:a8:99",
+        "model": "i056",
+        "number": "97",
+        "os": "linux",
+        "production_date": "10.06.2021",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "15.08.2032",
+        "mac": "18:be:23:a6:79:59",
+        "model": "i584",
+        "number": "13",
+        "os": "windows",
+        "production_date": "03.09.2021",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "09.01.2032",
+        "mac": "10:62:b3:af:3b:63",
+        "model": "i667",
+        "number": "26",
+        "os": "mac",
+        "production_date": "26.04.2023",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "01.08.2031",
+        "mac": "d6:f5:01:0e:5a:a3",
+        "model": "i637",
+        "number": "93",
+        "os": "mac",
+        "production_date": "29.06.2024",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "31.05.2031",
+        "mac": "f8:39:04:72:7b:d4",
+        "model": "i885",
+        "number": "21",
+        "os": "windows",
+        "production_date": "19.01.2017",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "16.11.2033",
+        "mac": "a8:be:53:37:a3:34",
+        "model": "i976",
+        "number": "82",
+        "os": "windows",
+        "production_date": "30.06.2015",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "28.08.2028",
+        "mac": "9e:c5:46:f5:8c:8e",
+        "model": "i476",
+        "number": "68",
+        "os": "mac",
+        "production_date": "04.12.2023",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "29.06.2026",
+        "mac": "bc:f5:64:b3:6a:7b",
+        "model": "i756",
+        "number": "13",
+        "os": "windows",
+        "production_date": "12.03.2022",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "02.03.2030",
+        "mac": "46:d6:fb:7a:4e:66",
+        "model": "i321",
+        "number": "34",
+        "os": "mac",
+        "production_date": "27.04.2018",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "05.12.2034",
+        "mac": "ac:19:da:96:06:56",
+        "model": "i365",
+        "number": "20",
+        "os": "windows",
+        "production_date": "09.08.2020",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "20.04.2034",
+        "mac": "74:0b:dd:42:68:86",
+        "model": "i347",
+        "number": "13",
+        "os": "mac",
+        "production_date": "22.03.2024",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "28.01.2033",
+        "mac": "2e:59:b7:1e:a4:5b",
+        "model": "i682",
+        "number": "31",
+        "os": "windows",
+        "production_date": "14.04.2015",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "26.06.2026",
+        "mac": "a4:8f:05:f6:f9:ec",
+        "model": "i100",
+        "number": "35",
+        "os": "mac",
+        "production_date": "23.04.2021",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "04.12.2027",
+        "mac": "f2:a3:a5:21:75:9e",
+        "model": "i922",
+        "number": "9",
+        "os": "linux",
+        "production_date": "30.05.2021",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "11.08.2033",
+        "mac": "be:22:58:68:b4:0d",
+        "model": "i232",
+        "number": "43",
+        "os": "windows",
+        "production_date": "12.02.2019",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "26.12.2031",
+        "mac": "ea:67:c6:3d:a4:9d",
+        "model": "i421",
+        "number": "45",
+        "os": "windows",
+        "production_date": "11.06.2022",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "11.09.2031",
+        "mac": "5c:28:54:ce:bb:85",
+        "model": "i068",
+        "number": "96",
+        "os": "mac",
+        "production_date": "15.04.2024",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "12.09.2027",
+        "mac": "c8:30:09:a6:15:0e",
+        "model": "i515",
+        "number": "12",
+        "os": "windows",
+        "production_date": "04.02.2018",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "25.11.2026",
+        "mac": "4a:f2:5d:67:a2:bf",
+        "model": "i823",
+        "number": "87",
+        "os": "linux",
+        "production_date": "24.05.2018",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "15.07.2026",
+        "mac": "1a:61:1e:98:d1:18",
+        "model": "i401",
+        "number": "61",
+        "os": "mac",
+        "production_date": "02.05.2021",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "15.03.2028",
+        "mac": "40:04:ac:be:51:9e",
+        "model": "i635",
+        "number": "91",
+        "os": "mac",
+        "production_date": "24.06.2024",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "20.04.2028",
+        "mac": "60:6f:03:10:bf:29",
+        "model": "i670",
+        "number": "10",
+        "os": "linux",
+        "production_date": "09.09.2023",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "17.08.2033",
+        "mac": "00:21:f3:3a:c6:34",
+        "model": "i770",
+        "number": "21",
+        "os": "linux",
+        "production_date": "15.07.2018",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "11.02.2034",
+        "mac": "0a:c2:f7:a4:c4:f6",
+        "model": "i559",
+        "number": "92",
+        "os": "windows",
+        "production_date": "21.05.2016",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "18.10.2034",
+        "mac": "aa:0d:e5:ac:04:f8",
+        "model": "i965",
+        "number": "53",
+        "os": "mac",
+        "production_date": "12.11.2016",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "09.06.2029",
+        "mac": "c8:71:0d:18:3b:42",
+        "model": "i856",
+        "number": "87",
+        "os": "linux",
+        "production_date": "26.06.2024",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "05.01.2033",
+        "mac": "e4:83:30:d3:bc:d4",
+        "model": "i438",
+        "number": "56",
+        "os": "mac",
+        "production_date": "12.05.2022",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "17.03.2026",
+        "mac": "7c:4d:6b:3f:48:80",
+        "model": "i690",
+        "number": "32",
+        "os": "windows",
+        "production_date": "29.10.2020",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "29.12.2033",
+        "mac": "1a:a4:8a:f5:6a:36",
+        "model": "i734",
+        "number": "46",
+        "os": "linux",
+        "production_date": "29.04.2021",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "17.04.2033",
+        "mac": "60:e2:0f:17:0a:64",
+        "model": "i445",
+        "number": "92",
+        "os": "linux",
+        "production_date": "26.08.2015",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "06.12.2031",
+        "mac": "ea:e6:56:1c:3e:76",
+        "model": "i626",
+        "number": "71",
+        "os": "linux",
+        "production_date": "23.05.2019",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "05.09.2034",
+        "mac": "04:63:db:0f:5a:06",
+        "model": "i917",
+        "number": "35",
+        "os": "mac",
+        "production_date": "16.08.2016",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "14.10.2027",
+        "mac": "ea:fc:ac:24:06:53",
+        "model": "i934",
+        "number": "48",
+        "os": "windows",
+        "production_date": "28.02.2018",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "06.08.2028",
+        "mac": "e4:3f:66:13:a7:2b",
+        "model": "i409",
+        "number": "45",
+        "os": "windows",
+        "production_date": "07.08.2022",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "18.06.2030",
+        "mac": "f4:8b:fa:0a:dd:e0",
+        "model": "i939",
+        "number": "17",
+        "os": "mac",
+        "production_date": "02.05.2024",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "14.11.2029",
+        "mac": "26:a1:12:47:7e:9e",
+        "model": "i384",
+        "number": "12",
+        "os": "mac",
+        "production_date": "07.05.2021",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "13.05.2028",
+        "mac": "30:bc:28:21:76:7a",
+        "model": "i569",
+        "number": "39",
+        "os": "linux",
+        "production_date": "22.07.2020",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "11.02.2031",
+        "mac": "18:3c:ee:ae:33:92",
+        "model": "i562",
+        "number": "68",
+        "os": "mac",
+        "production_date": "19.07.2016",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "07.11.2034",
+        "mac": "3a:9b:8f:1c:f1:7f",
+        "model": "i871",
+        "number": "89",
+        "os": "windows",
+        "production_date": "22.09.2018",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "02.02.2031",
+        "mac": "d6:46:38:e8:07:ca",
+        "model": "i516",
+        "number": "18",
+        "os": "linux",
+        "production_date": "14.10.2022",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "31.12.2029",
+        "mac": "aa:91:63:7f:a0:68",
+        "model": "i276",
+        "number": "68",
+        "os": "linux",
+        "production_date": "26.12.2017",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "25.08.2031",
+        "mac": "c8:a5:da:af:19:48",
+        "model": "i647",
+        "number": "96",
+        "os": "mac",
+        "production_date": "24.06.2015",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "03.08.2029",
+        "mac": "9e:c9:e5:ec:5e:bf",
+        "model": "i097",
+        "number": "92",
+        "os": "linux",
+        "production_date": "26.10.2020",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "20.01.2026",
+        "mac": "6c:a2:ff:18:d5:68",
+        "model": "i479",
+        "number": "20",
+        "os": "mac",
+        "production_date": "12.05.2020",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "12.01.2030",
+        "mac": "fc:43:f4:5b:95:dd",
+        "model": "i856",
+        "number": "64",
+        "os": "linux",
+        "production_date": "21.11.2015",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "31.05.2034",
+        "mac": "d0:dd:d6:1e:b5:54",
+        "model": "i543",
+        "number": "13",
+        "os": "windows",
+        "production_date": "26.08.2024",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "09.07.2031",
+        "mac": "a8:d9:5b:7a:81:56",
+        "model": "i887",
+        "number": "72",
+        "os": "windows",
+        "production_date": "17.02.2023",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "06.10.2031",
+        "mac": "34:0e:84:df:34:f5",
+        "model": "i361",
+        "number": "2",
+        "os": "linux",
+        "production_date": "27.10.2017",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "02.08.2032",
+        "mac": "a8:bb:68:a9:17:5c",
+        "model": "i285",
+        "number": "87",
+        "os": "windows",
+        "production_date": "11.09.2020",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "06.07.2033",
+        "mac": "fc:7e:8a:5b:36:96",
+        "model": "i771",
+        "number": "55",
+        "os": "windows",
+        "production_date": "26.04.2024",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "07.08.2033",
+        "mac": "a8:35:e2:36:c9:9e",
+        "model": "i233",
+        "number": "47",
+        "os": "linux",
+        "production_date": "27.03.2015",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "18.08.2030",
+        "mac": "54:a4:11:ec:20:30",
+        "model": "i558",
+        "number": "11",
+        "os": "mac",
+        "production_date": "17.02.2019",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "29.10.2026",
+        "mac": "d8:9a:27:28:22:a9",
+        "model": "i630",
+        "number": "87",
+        "os": "windows",
+        "production_date": "18.02.2018",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "17.09.2026",
+        "mac": "f4:f9:02:67:64:db",
+        "model": "i714",
+        "number": "72",
+        "os": "mac",
+        "production_date": "02.12.2022",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "18.09.2034",
+        "mac": "f0:12:56:76:bd:dd",
+        "model": "i333",
+        "number": "17",
+        "os": "mac",
+        "production_date": "16.05.2024",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "07.06.2030",
+        "mac": "ea:e0:73:0f:f9:2a",
+        "model": "i807",
+        "number": "75",
+        "os": "windows",
+        "production_date": "02.04.2022",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "24.02.2029",
+        "mac": "1e:71:32:af:28:61",
+        "model": "i538",
+        "number": "78",
+        "os": "mac",
+        "production_date": "13.06.2022",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "13.02.2031",
+        "mac": "c6:37:c3:1d:82:bd",
+        "model": "i743",
+        "number": "5",
+        "os": "windows",
+        "production_date": "25.02.2018",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "26.10.2033",
+        "mac": "88:04:cf:14:cc:41",
+        "model": "i406",
+        "number": "74",
+        "os": "windows",
+        "production_date": "21.01.2021",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "19.04.2030",
+        "mac": "8c:0b:53:11:41:e1",
+        "model": "i857",
+        "number": "43",
+        "os": "linux",
+        "production_date": "12.12.2020",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "29.05.2026",
+        "mac": "7a:52:a2:9a:9f:5b",
+        "model": "i348",
+        "number": "93",
+        "os": "windows",
+        "production_date": "29.09.2024",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "07.11.2032",
+        "mac": "a8:1c:52:e2:9c:9b",
+        "model": "i379",
+        "number": "27",
+        "os": "windows",
+        "production_date": "28.05.2024",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "24.12.2027",
+        "mac": "4c:f9:f2:ab:de:3e",
+        "model": "i382",
+        "number": "16",
+        "os": "linux",
+        "production_date": "20.02.2024",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "14.11.2034",
+        "mac": "dc:fc:f4:e2:34:f4",
+        "model": "i615",
+        "number": "62",
+        "os": "mac",
+        "production_date": "17.02.2020",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "14.04.2030",
+        "mac": "54:2d:35:19:e1:9f",
+        "model": "i785",
+        "number": "5",
+        "os": "linux",
+        "production_date": "07.02.2022",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "15.10.2034",
+        "mac": "4a:a1:d2:96:0c:14",
+        "model": "i761",
+        "number": "21",
+        "os": "mac",
+        "production_date": "28.05.2017",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "07.11.2029",
+        "mac": "62:73:96:da:b9:ec",
+        "model": "i154",
+        "number": "46",
+        "os": "mac",
+        "production_date": "25.03.2024",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "09.01.2027",
+        "mac": "b0:ea:4e:35:07:5f",
+        "model": "i220",
+        "number": "81",
+        "os": "linux",
+        "production_date": "08.12.2024",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "05.07.2026",
+        "mac": "e0:ef:81:d9:f1:c7",
+        "model": "i162",
+        "number": "69",
+        "os": "mac",
+        "production_date": "22.12.2023",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "05.10.2029",
+        "mac": "3e:b6:bc:88:44:68",
+        "model": "i102",
+        "number": "34",
+        "os": "linux",
+        "production_date": "30.07.2024",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "29.12.2026",
+        "mac": "12:dc:ff:d8:1c:ce",
+        "model": "i089",
+        "number": "83",
+        "os": "mac",
+        "production_date": "21.06.2015",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "09.09.2031",
+        "mac": "30:e7:f5:3f:b6:8d",
+        "model": "i787",
+        "number": "75",
+        "os": "windows",
+        "production_date": "13.05.2017",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "11.08.2026",
+        "mac": "fc:34:43:3e:a7:ab",
+        "model": "i707",
+        "number": "66",
+        "os": "windows",
+        "production_date": "24.08.2016",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "24.11.2026",
+        "mac": "fc:87:64:93:39:de",
+        "model": "i613",
+        "number": "100",
+        "os": "windows",
+        "production_date": "12.12.2024",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "05.08.2027",
+        "mac": "82:c0:1e:14:56:8d",
+        "model": "i754",
+        "number": "93",
+        "os": "linux",
+        "production_date": "07.12.2023",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "22.03.2034",
+        "mac": "8a:b1:29:b1:4f:21",
+        "model": "i016",
+        "number": "91",
+        "os": "windows",
+        "production_date": "02.05.2024",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "12.10.2033",
+        "mac": "70:c3:56:3d:1c:b9",
+        "model": "i345",
+        "number": "87",
+        "os": "linux",
+        "production_date": "20.11.2021",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "11.11.2031",
+        "mac": "04:6c:f6:fd:af:e9",
+        "model": "i038",
+        "number": "91",
+        "os": "mac",
+        "production_date": "15.10.2021",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "06.12.2029",
+        "mac": "d2:f6:46:74:32:c7",
+        "model": "i106",
+        "number": "16",
+        "os": "windows",
+        "production_date": "18.05.2019",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "21.06.2026",
+        "mac": "e2:4f:68:2d:48:12",
+        "model": "i599",
+        "number": "35",
+        "os": "mac",
+        "production_date": "27.11.2024",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "20.04.2030",
+        "mac": "88:23:ad:e7:a8:f8",
+        "model": "i606",
+        "number": "56",
+        "os": "linux",
+        "production_date": "30.12.2015",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "25.02.2033",
+        "mac": "74:d4:3d:b4:c2:a2",
+        "model": "i061",
+        "number": "68",
+        "os": "linux",
+        "production_date": "09.06.2017",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "19.04.2034",
+        "mac": "3e:1b:af:f9:e9:3b",
+        "model": "i134",
+        "number": "73",
+        "os": "linux",
+        "production_date": "12.03.2024",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "09.10.2029",
+        "mac": "ca:c9:12:5f:33:5f",
+        "model": "i126",
+        "number": "42",
+        "os": "windows",
+        "production_date": "23.09.2021",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "23.08.2026",
+        "mac": "70:b5:07:e1:43:44",
+        "model": "i980",
+        "number": "62",
+        "os": "mac",
+        "production_date": "14.03.2023",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "21.03.2034",
+        "mac": "04:6e:67:a7:3e:f1",
+        "model": "i425",
+        "number": "34",
+        "os": "windows",
+        "production_date": "14.05.2019",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "04.09.2032",
+        "mac": "58:6d:37:74:cc:e6",
+        "model": "i085",
+        "number": "51",
+        "os": "linux",
+        "production_date": "28.01.2017",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "01.10.2029",
+        "mac": "88:f7:34:36:44:0b",
+        "model": "i659",
+        "number": "61",
+        "os": "mac",
+        "production_date": "22.04.2019",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "24.08.2033",
+        "mac": "6a:68:4b:98:cd:54",
+        "model": "i915",
+        "number": "35",
+        "os": "linux",
+        "production_date": "27.08.2019",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "25.09.2026",
+        "mac": "08:27:7a:32:76:56",
+        "model": "i703",
+        "number": "12",
+        "os": "mac",
+        "production_date": "28.01.2018",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "13.07.2034",
+        "mac": "76:1c:03:15:d1:59",
+        "model": "i868",
+        "number": "39",
+        "os": "windows",
+        "production_date": "01.05.2024",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "03.02.2026",
+        "mac": "90:9a:28:27:65:8b",
+        "model": "i025",
+        "number": "81",
+        "os": "mac",
+        "production_date": "26.06.2021",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "29.03.2027",
+        "mac": "0e:11:ad:04:28:35",
+        "model": "i342",
+        "number": "67",
+        "os": "mac",
+        "production_date": "25.07.2018",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "19.04.2027",
+        "mac": "e8:54:d6:a6:39:1a",
+        "model": "i949",
+        "number": "68",
+        "os": "linux",
+        "production_date": "09.11.2023",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "21.07.2029",
+        "mac": "94:33:4b:aa:63:dd",
+        "model": "i294",
+        "number": "7",
+        "os": "windows",
+        "production_date": "17.04.2022",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "15.03.2034",
+        "mac": "96:9f:a2:a6:87:dc",
+        "model": "i938",
+        "number": "46",
+        "os": "windows",
+        "production_date": "04.03.2024",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "12.04.2030",
+        "mac": "90:bc:73:ad:42:55",
+        "model": "i085",
+        "number": "33",
+        "os": "mac",
+        "production_date": "21.10.2024",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "05.05.2030",
+        "mac": "8a:c8:81:10:b6:5d",
+        "model": "i442",
+        "number": "95",
+        "os": "linux",
+        "production_date": "27.10.2019",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "13.09.2033",
+        "mac": "34:9d:34:41:5d:a4",
+        "model": "i302",
+        "number": "38",
+        "os": "linux",
+        "production_date": "03.05.2023",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "29.03.2026",
+        "mac": "9a:4e:ef:6b:fb:85",
+        "model": "i788",
+        "number": "1",
+        "os": "linux",
+        "production_date": "11.02.2015",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "11.01.2033",
+        "mac": "3c:e5:b2:b2:c8:b1",
+        "model": "i566",
+        "number": "75",
+        "os": "linux",
+        "production_date": "17.01.2022",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "23.10.2034",
+        "mac": "4a:04:26:9b:e5:72",
+        "model": "i813",
+        "number": "16",
+        "os": "mac",
+        "production_date": "11.02.2018",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "05.09.2034",
+        "mac": "46:0f:1e:c1:a0:8d",
+        "model": "i764",
+        "number": "1",
+        "os": "linux",
+        "production_date": "12.05.2015",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "23.06.2029",
+        "mac": "d2:0f:00:b6:cb:67",
+        "model": "i725",
+        "number": "66",
+        "os": "linux",
+        "production_date": "11.07.2015",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "15.03.2029",
+        "mac": "a2:64:78:ce:fa:de",
+        "model": "i541",
+        "number": "25",
+        "os": "mac",
+        "production_date": "25.02.2016",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "11.06.2026",
+        "mac": "9e:91:70:5e:8d:91",
+        "model": "i104",
+        "number": "35",
+        "os": "windows",
+        "production_date": "17.02.2021",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "21.12.2029",
+        "mac": "0a:10:08:1e:fb:2f",
+        "model": "i265",
+        "number": "5",
+        "os": "windows",
+        "production_date": "29.12.2020",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "29.10.2028",
+        "mac": "d2:52:88:1b:3a:1e",
+        "model": "i694",
+        "number": "32",
+        "os": "linux",
+        "production_date": "02.10.2019",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "10.02.2029",
+        "mac": "d8:ab:5e:5b:51:8a",
+        "model": "i915",
+        "number": "68",
+        "os": "windows",
+        "production_date": "16.02.2015",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "23.10.2032",
+        "mac": "8a:96:db:62:b8:6c",
+        "model": "i260",
+        "number": "13",
+        "os": "mac",
+        "production_date": "23.04.2021",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "07.08.2030",
+        "mac": "50:b0:c5:bc:26:72",
+        "model": "i959",
+        "number": "94",
+        "os": "linux",
+        "production_date": "22.12.2017",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "30.11.2031",
+        "mac": "8c:80:0b:b0:7a:e4",
+        "model": "i799",
+        "number": "34",
+        "os": "mac",
+        "production_date": "11.01.2015",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "06.12.2033",
+        "mac": "44:26:5b:4e:4f:78",
+        "model": "i684",
+        "number": "91",
+        "os": "mac",
+        "production_date": "26.10.2018",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "07.08.2029",
+        "mac": "06:36:dc:5e:64:33",
+        "model": "i187",
+        "number": "22",
+        "os": "windows",
+        "production_date": "10.01.2020",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "24.09.2029",
+        "mac": "de:f7:39:74:a4:24",
+        "model": "i335",
+        "number": "78",
+        "os": "mac",
+        "production_date": "22.02.2023",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "16.07.2031",
+        "mac": "a6:9b:0e:fa:e8:56",
+        "model": "i735",
+        "number": "68",
+        "os": "mac",
+        "production_date": "11.07.2024",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "17.04.2034",
+        "mac": "b8:2b:80:75:37:8a",
+        "model": "i508",
+        "number": "51",
+        "os": "linux",
+        "production_date": "08.07.2015",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "26.04.2031",
+        "mac": "c0:a1:60:79:9b:44",
+        "model": "i234",
+        "number": "22",
+        "os": "linux",
+        "production_date": "14.08.2021",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "04.04.2033",
+        "mac": "b6:90:09:28:d0:c6",
+        "model": "i187",
+        "number": "71",
+        "os": "linux",
+        "production_date": "30.10.2016",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "09.11.2034",
+        "mac": "c2:5d:86:dc:ec:3e",
+        "model": "i627",
+        "number": "5",
+        "os": "mac",
+        "production_date": "11.07.2022",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "04.03.2030",
+        "mac": "aa:75:dc:18:53:7a",
+        "model": "i057",
+        "number": "58",
+        "os": "mac",
+        "production_date": "11.06.2016",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "29.12.2030",
+        "mac": "08:95:89:ca:28:74",
+        "model": "i721",
+        "number": "53",
+        "os": "mac",
+        "production_date": "20.10.2017",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "01.10.2032",
+        "mac": "b4:71:48:7b:20:ce",
+        "model": "i348",
+        "number": "12",
+        "os": "mac",
+        "production_date": "19.01.2019",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "18.07.2031",
+        "mac": "6e:e3:f7:2c:ec:b2",
+        "model": "i776",
+        "number": "20",
+        "os": "linux",
+        "production_date": "31.12.2019",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "18.06.2032",
+        "mac": "56:74:2b:14:4f:d1",
+        "model": "i831",
+        "number": "33",
+        "os": "mac",
+        "production_date": "12.05.2021",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "23.02.2028",
+        "mac": "2c:1f:96:dd:8f:f3",
+        "model": "i609",
+        "number": "78",
+        "os": "windows",
+        "production_date": "05.10.2021",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "29.10.2026",
+        "mac": "4c:da:21:d7:b5:98",
+        "model": "i040",
+        "number": "21",
+        "os": "linux",
+        "production_date": "02.07.2022",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "04.06.2033",
+        "mac": "28:d7:d6:2e:a7:ee",
+        "model": "i076",
+        "number": "40",
+        "os": "linux",
+        "production_date": "24.12.2016",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "05.12.2026",
+        "mac": "44:5c:d8:3c:41:0c",
+        "model": "i042",
+        "number": "83",
+        "os": "linux",
+        "production_date": "25.10.2016",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "27.12.2032",
+        "mac": "e2:24:c8:5c:ee:71",
+        "model": "i588",
+        "number": "16",
+        "os": "windows",
+        "production_date": "13.06.2022",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "27.01.2033",
+        "mac": "50:80:b5:06:ea:0c",
+        "model": "i813",
+        "number": "92",
+        "os": "windows",
+        "production_date": "06.03.2015",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "29.09.2033",
+        "mac": "24:30:d8:23:50:38",
+        "model": "i382",
+        "number": "95",
+        "os": "windows",
+        "production_date": "11.02.2016",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "17.01.2032",
+        "mac": "5e:c8:b7:5f:e1:2d",
+        "model": "i304",
+        "number": "38",
+        "os": "windows",
+        "production_date": "05.04.2016",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "21.05.2028",
+        "mac": "6e:bc:b1:ba:52:9a",
+        "model": "i797",
+        "number": "60",
+        "os": "mac",
+        "production_date": "07.08.2022",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "08.04.2028",
+        "mac": "6e:25:65:41:75:cb",
+        "model": "i212",
+        "number": "26",
+        "os": "windows",
+        "production_date": "26.01.2016",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "19.01.2028",
+        "mac": "12:dd:1b:51:10:67",
+        "model": "i554",
+        "number": "27",
+        "os": "linux",
+        "production_date": "13.06.2024",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "25.10.2032",
+        "mac": "04:ca:93:40:c2:0b",
+        "model": "i520",
+        "number": "28",
+        "os": "windows",
+        "production_date": "19.10.2018",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "23.11.2029",
+        "mac": "38:1a:1c:a4:10:c0",
+        "model": "i225",
+        "number": "41",
+        "os": "mac",
+        "production_date": "09.06.2017",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "12.01.2029",
+        "mac": "44:fb:3e:01:03:41",
+        "model": "i333",
+        "number": "87",
+        "os": "mac",
+        "production_date": "08.05.2024",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "12.07.2030",
+        "mac": "62:b6:6f:0e:bd:1b",
+        "model": "i023",
+        "number": "69",
+        "os": "windows",
+        "production_date": "01.11.2019",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "28.09.2026",
+        "mac": "ea:97:37:a8:41:42",
+        "model": "i713",
+        "number": "47",
+        "os": "linux",
+        "production_date": "31.08.2017",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "27.10.2026",
+        "mac": "9e:c6:3d:37:9d:e1",
+        "model": "i631",
+        "number": "48",
+        "os": "mac",
+        "production_date": "05.09.2018",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "04.04.2034",
+        "mac": "12:3b:90:35:63:a6",
+        "model": "i595",
+        "number": "9",
+        "os": "windows",
+        "production_date": "29.10.2024",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "02.05.2029",
+        "mac": "82:48:00:d6:82:66",
+        "model": "i467",
+        "number": "1",
+        "os": "mac",
+        "production_date": "16.12.2022",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "20.05.2034",
+        "mac": "00:73:14:8f:76:64",
+        "model": "i747",
+        "number": "33",
+        "os": "linux",
+        "production_date": "25.11.2020",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "07.01.2027",
+        "mac": "00:a1:57:d6:23:18",
+        "model": "i056",
+        "number": "68",
+        "os": "windows",
+        "production_date": "26.01.2016",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "27.09.2032",
+        "mac": "8a:01:36:85:ed:99",
+        "model": "i581",
+        "number": "68",
+        "os": "linux",
+        "production_date": "03.06.2016",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "20.12.2030",
+        "mac": "66:47:bd:49:4f:94",
+        "model": "i988",
+        "number": "90",
+        "os": "windows",
+        "production_date": "20.01.2021",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "07.12.2029",
+        "mac": "62:7f:98:7b:7b:ee",
+        "model": "i603",
+        "number": "49",
+        "os": "linux",
+        "production_date": "15.04.2016",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "23.05.2027",
+        "mac": "c0:1a:70:62:ce:f8",
+        "model": "i557",
+        "number": "4",
+        "os": "linux",
+        "production_date": "06.12.2019",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "22.11.2029",
+        "mac": "9a:e0:b8:75:d0:d4",
+        "model": "i517",
+        "number": "85",
+        "os": "mac",
+        "production_date": "01.05.2015",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "17.12.2029",
+        "mac": "82:5b:82:3e:68:66",
+        "model": "i822",
+        "number": "35",
+        "os": "mac",
+        "production_date": "15.02.2021",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "27.06.2033",
+        "mac": "3c:1a:ba:9f:78:ac",
+        "model": "i357",
+        "number": "50",
+        "os": "mac",
+        "production_date": "14.02.2021",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "22.11.2031",
+        "mac": "30:54:77:70:3d:e8",
+        "model": "i352",
+        "number": "64",
+        "os": "mac",
+        "production_date": "19.03.2018",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "03.05.2028",
+        "mac": "00:f7:db:f0:18:c6",
+        "model": "i660",
+        "number": "7",
+        "os": "windows",
+        "production_date": "15.09.2022",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "29.01.2033",
+        "mac": "56:28:01:4f:8b:55",
+        "model": "i619",
+        "number": "1",
+        "os": "windows",
+        "production_date": "15.11.2021",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "13.08.2026",
+        "mac": "8e:ef:cb:8e:9e:35",
+        "model": "i503",
+        "number": "95",
+        "os": "mac",
+        "production_date": "08.07.2023",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "10.02.2028",
+        "mac": "6a:5e:79:1c:7b:2c",
+        "model": "i804",
+        "number": "7",
+        "os": "mac",
+        "production_date": "17.04.2022",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "04.08.2029",
+        "mac": "90:46:00:db:75:ff",
+        "model": "i855",
+        "number": "78",
+        "os": "mac",
+        "production_date": "01.06.2023",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "14.12.2032",
+        "mac": "5e:d1:04:8e:bd:28",
+        "model": "i694",
+        "number": "15",
+        "os": "mac",
+        "production_date": "22.03.2016",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "17.07.2028",
+        "mac": "ce:94:ed:03:64:bc",
+        "model": "i154",
+        "number": "38",
+        "os": "linux",
+        "production_date": "12.01.2019",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "27.01.2031",
+        "mac": "82:47:37:a0:1d:31",
+        "model": "i473",
+        "number": "78",
+        "os": "mac",
+        "production_date": "03.01.2024",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "19.01.2029",
+        "mac": "9e:92:59:66:1b:ab",
+        "model": "i146",
+        "number": "92",
+        "os": "windows",
+        "production_date": "16.02.2015",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "22.08.2027",
+        "mac": "60:bc:f7:c3:43:8a",
+        "model": "i445",
+        "number": "23",
+        "os": "windows",
+        "production_date": "09.02.2020",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "02.06.2034",
+        "mac": "88:67:e6:2b:82:d0",
+        "model": "i688",
+        "number": "55",
+        "os": "windows",
+        "production_date": "25.09.2016",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "02.09.2034",
+        "mac": "96:3d:81:07:35:d2",
+        "model": "i845",
+        "number": "77",
+        "os": "linux",
+        "production_date": "18.02.2022",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "17.09.2034",
+        "mac": "48:79:c9:c9:0e:0f",
+        "model": "i289",
+        "number": "3",
+        "os": "windows",
+        "production_date": "01.02.2015",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "23.05.2028",
+        "mac": "12:9e:7c:bf:ae:c0",
+        "model": "i956",
+        "number": "93",
+        "os": "linux",
+        "production_date": "16.09.2022",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "02.12.2027",
+        "mac": "ae:f9:61:66:c9:97",
+        "model": "i648",
+        "number": "78",
+        "os": "windows",
+        "production_date": "19.03.2015",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "05.10.2031",
+        "mac": "12:a5:e9:20:fe:06",
+        "model": "i130",
+        "number": "79",
+        "os": "mac",
+        "production_date": "18.08.2015",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "01.08.2030",
+        "mac": "7c:89:e8:04:e5:cc",
+        "model": "i186",
+        "number": "27",
+        "os": "windows",
+        "production_date": "16.06.2016",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "14.03.2026",
+        "mac": "e0:a5:07:75:f3:69",
+        "model": "i531",
+        "number": "96",
+        "os": "windows",
+        "production_date": "08.08.2024",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "09.11.2028",
+        "mac": "8a:d0:43:fc:8a:8d",
+        "model": "i000",
+        "number": "89",
+        "os": "mac",
+        "production_date": "28.12.2021",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "07.11.2029",
+        "mac": "88:96:04:55:30:0b",
+        "model": "i222",
+        "number": "16",
+        "os": "linux",
+        "production_date": "10.12.2015",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "30.05.2030",
+        "mac": "1c:7a:90:c7:60:ec",
+        "model": "i711",
+        "number": "59",
+        "os": "linux",
+        "production_date": "31.03.2020",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "20.04.2033",
+        "mac": "d2:0c:20:e4:13:ac",
+        "model": "i792",
+        "number": "43",
+        "os": "linux",
+        "production_date": "21.06.2018",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "11.04.2028",
+        "mac": "ee:21:25:de:d8:42",
+        "model": "i328",
+        "number": "6",
+        "os": "windows",
+        "production_date": "17.11.2016",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "11.08.2030",
+        "mac": "d4:a9:f3:e7:2f:39",
+        "model": "i282",
+        "number": "77",
+        "os": "linux",
+        "production_date": "11.09.2024",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "21.12.2026",
+        "mac": "c2:e8:be:5e:1d:e2",
+        "model": "i250",
+        "number": "54",
+        "os": "mac",
+        "production_date": "05.07.2024",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "07.06.2033",
+        "mac": "34:fb:b0:a7:47:55",
+        "model": "i185",
+        "number": "72",
+        "os": "windows",
+        "production_date": "17.12.2020",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "22.05.2033",
+        "mac": "20:a8:fa:32:4b:db",
+        "model": "i845",
+        "number": "9",
+        "os": "windows",
+        "production_date": "30.04.2020",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "25.04.2033",
+        "mac": "78:20:9f:e5:a9:7b",
+        "model": "i602",
+        "number": "53",
+        "os": "windows",
+        "production_date": "13.06.2018",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "15.12.2026",
+        "mac": "64:64:47:09:d3:f7",
+        "model": "i159",
+        "number": "19",
+        "os": "mac",
+        "production_date": "06.11.2020",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "21.06.2026",
+        "mac": "8e:c6:32:c1:e4:2e",
+        "model": "i180",
+        "number": "43",
+        "os": "windows",
+        "production_date": "31.10.2016",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "31.05.2029",
+        "mac": "40:e5:9c:58:e3:d8",
+        "model": "i631",
+        "number": "19",
+        "os": "linux",
+        "production_date": "28.11.2023",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "22.04.2032",
+        "mac": "fa:08:4c:90:ae:86",
+        "model": "i286",
+        "number": "92",
+        "os": "windows",
+        "production_date": "03.08.2020",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "05.02.2033",
+        "mac": "be:39:f0:f3:f5:4d",
+        "model": "i757",
+        "number": "47",
+        "os": "windows",
+        "production_date": "11.05.2021",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "27.06.2027",
+        "mac": "6c:f2:ac:86:4b:78",
+        "model": "i844",
+        "number": "42",
+        "os": "windows",
+        "production_date": "27.10.2020",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "29.03.2029",
+        "mac": "92:be:7f:44:8e:12",
+        "model": "i320",
+        "number": "75",
+        "os": "linux",
+        "production_date": "09.07.2021",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "30.06.2031",
+        "mac": "ec:b5:d4:41:80:88",
+        "model": "i220",
+        "number": "82",
+        "os": "linux",
+        "production_date": "02.01.2022",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "28.05.2027",
+        "mac": "f0:c0:8f:e6:5b:cb",
+        "model": "i181",
+        "number": "46",
+        "os": "linux",
+        "production_date": "13.01.2021",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "15.10.2033",
+        "mac": "70:ca:36:78:32:2c",
+        "model": "i451",
+        "number": "22",
+        "os": "windows",
+        "production_date": "11.06.2020",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "29.10.2030",
+        "mac": "e8:4f:9f:87:93:4d",
+        "model": "i334",
+        "number": "49",
+        "os": "linux",
+        "production_date": "30.12.2016",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "02.09.2034",
+        "mac": "02:8f:48:7b:3b:17",
+        "model": "i445",
+        "number": "95",
+        "os": "mac",
+        "production_date": "16.02.2024",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "07.06.2030",
+        "mac": "24:67:1c:9c:a3:9a",
+        "model": "i778",
+        "number": "31",
+        "os": "mac",
+        "production_date": "05.09.2015",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "09.01.2029",
+        "mac": "20:04:32:49:29:55",
+        "model": "i353",
+        "number": "2",
+        "os": "linux",
+        "production_date": "21.03.2016",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "03.02.2031",
+        "mac": "da:b5:a5:44:5f:94",
+        "model": "i466",
+        "number": "51",
+        "os": "mac",
+        "production_date": "27.01.2015",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "20.09.2034",
+        "mac": "f6:f3:f6:b6:46:41",
+        "model": "i629",
+        "number": "57",
+        "os": "mac",
+        "production_date": "20.11.2020",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "25.07.2033",
+        "mac": "1e:fa:bb:b4:03:6d",
+        "model": "i050",
+        "number": "76",
+        "os": "linux",
+        "production_date": "05.11.2015",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "02.03.2034",
+        "mac": "14:55:1d:76:d4:0e",
+        "model": "i211",
+        "number": "55",
+        "os": "mac",
+        "production_date": "08.06.2024",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "04.04.2027",
+        "mac": "04:57:75:ab:57:4f",
+        "model": "i725",
+        "number": "13",
+        "os": "linux",
+        "production_date": "19.01.2016",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "28.09.2029",
+        "mac": "82:98:47:bc:76:d3",
+        "model": "i033",
+        "number": "35",
+        "os": "windows",
+        "production_date": "26.02.2021",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "22.06.2026",
+        "mac": "ec:87:bf:43:2f:7a",
+        "model": "i770",
+        "number": "26",
+        "os": "mac",
+        "production_date": "18.01.2017",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "16.12.2025",
+        "mac": "72:fe:a1:11:89:96",
+        "model": "i703",
+        "number": "11",
+        "os": "linux",
+        "production_date": "03.11.2018",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "16.06.2026",
+        "mac": "70:75:4f:63:c7:fa",
+        "model": "i072",
+        "number": "3",
+        "os": "windows",
+        "production_date": "13.06.2016",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "14.03.2031",
+        "mac": "58:de:66:9b:37:eb",
+        "model": "i457",
+        "number": "42",
+        "os": "mac",
+        "production_date": "21.11.2016",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "07.02.2029",
+        "mac": "68:24:f3:54:8c:ed",
+        "model": "i369",
+        "number": "36",
+        "os": "windows",
+        "production_date": "24.10.2023",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "07.08.2026",
+        "mac": "0e:c1:3d:3b:1f:bf",
+        "model": "i543",
+        "number": "71",
+        "os": "linux",
+        "production_date": "17.03.2021",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "08.04.2031",
+        "mac": "10:b2:4e:0e:e7:35",
+        "model": "i196",
+        "number": "2",
+        "os": "linux",
+        "production_date": "20.03.2020",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "29.06.2029",
+        "mac": "76:39:63:79:c0:08",
+        "model": "i538",
+        "number": "25",
+        "os": "windows",
+        "production_date": "23.10.2023",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "20.06.2028",
+        "mac": "84:29:5d:4c:71:e7",
+        "model": "i100",
+        "number": "42",
+        "os": "windows",
+        "production_date": "25.02.2020",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "15.12.2033",
+        "mac": "6c:eb:46:f3:77:02",
+        "model": "i572",
+        "number": "97",
+        "os": "linux",
+        "production_date": "16.01.2019",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "07.01.2030",
+        "mac": "62:76:43:d5:7b:17",
+        "model": "i240",
+        "number": "28",
+        "os": "windows",
+        "production_date": "06.06.2020",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "11.01.2026",
+        "mac": "6e:5e:90:2f:54:5f",
+        "model": "i370",
+        "number": "79",
+        "os": "mac",
+        "production_date": "07.11.2022",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "10.07.2026",
+        "mac": "f8:57:cc:13:b2:31",
+        "model": "i215",
+        "number": "27",
+        "os": "mac",
+        "production_date": "12.09.2015",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "08.10.2031",
+        "mac": "5e:a2:39:6b:44:4e",
+        "model": "i473",
+        "number": "64",
+        "os": "mac",
+        "production_date": "01.06.2017",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "30.10.2029",
+        "mac": "40:26:f6:00:dd:c7",
+        "model": "i393",
+        "number": "14",
+        "os": "windows",
+        "production_date": "16.01.2018",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "07.03.2033",
+        "mac": "c0:2c:16:cf:71:03",
+        "model": "i748",
+        "number": "2",
+        "os": "linux",
+        "production_date": "03.10.2023",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "26.05.2033",
+        "mac": "c6:2b:bd:fc:c0:2f",
+        "model": "i091",
+        "number": "46",
+        "os": "linux",
+        "production_date": "20.12.2022",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "16.09.2026",
+        "mac": "8c:41:1c:00:80:57",
+        "model": "i520",
+        "number": "100",
+        "os": "mac",
+        "production_date": "23.08.2018",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "12.02.2026",
+        "mac": "50:7b:69:a8:e1:0e",
+        "model": "i869",
+        "number": "99",
+        "os": "mac",
+        "production_date": "02.12.2016",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "21.03.2034",
+        "mac": "44:01:3c:61:ce:3e",
+        "model": "i250",
+        "number": "50",
+        "os": "mac",
+        "production_date": "21.06.2020",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "01.07.2030",
+        "mac": "4e:5a:f9:08:b3:31",
+        "model": "i655",
+        "number": "15",
+        "os": "linux",
+        "production_date": "07.07.2024",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "13.07.2031",
+        "mac": "14:95:bf:ee:bc:4a",
+        "model": "i359",
+        "number": "58",
+        "os": "linux",
+        "production_date": "22.03.2020",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "13.09.2026",
+        "mac": "8a:54:ec:4a:78:7b",
+        "model": "i351",
+        "number": "66",
+        "os": "mac",
+        "production_date": "08.06.2015",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "22.02.2031",
+        "mac": "de:5c:c6:cc:95:75",
+        "model": "i508",
+        "number": "17",
+        "os": "windows",
+        "production_date": "07.02.2020",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "18.07.2029",
+        "mac": "d6:bf:ce:37:a0:ae",
+        "model": "i140",
+        "number": "19",
+        "os": "windows",
+        "production_date": "23.11.2018",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "04.01.2034",
+        "mac": "b0:16:78:d0:94:96",
+        "model": "i961",
+        "number": "48",
+        "os": "linux",
+        "production_date": "09.11.2018",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "08.06.2033",
+        "mac": "0a:7c:28:d2:73:36",
+        "model": "i470",
+        "number": "24",
+        "os": "linux",
+        "production_date": "10.11.2020",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "03.11.2034",
+        "mac": "66:6b:ff:bb:14:ee",
+        "model": "i391",
+        "number": "87",
+        "os": "mac",
+        "production_date": "25.09.2018",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "24.05.2033",
+        "mac": "70:67:fe:1e:d4:b7",
+        "model": "i051",
+        "number": "98",
+        "os": "windows",
+        "production_date": "18.01.2021",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "20.01.2027",
+        "mac": "5c:35:54:0e:29:1b",
+        "model": "i867",
+        "number": "73",
+        "os": "linux",
+        "production_date": "19.04.2024",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "21.02.2027",
+        "mac": "16:7c:c0:d6:0d:ba",
+        "model": "i457",
+        "number": "29",
+        "os": "mac",
+        "production_date": "22.07.2015",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "23.11.2029",
+        "mac": "5c:e4:2b:38:4f:46",
+        "model": "i408",
+        "number": "42",
+        "os": "windows",
+        "production_date": "21.10.2017",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "03.02.2026",
+        "mac": "9e:30:5f:81:fd:30",
+        "model": "i883",
+        "number": "95",
+        "os": "mac",
+        "production_date": "25.11.2015",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "01.03.2028",
+        "mac": "80:a8:89:ee:32:e4",
+        "model": "i287",
+        "number": "55",
+        "os": "mac",
+        "production_date": "17.08.2018",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "20.03.2027",
+        "mac": "b6:f6:00:06:9a:dc",
+        "model": "i518",
+        "number": "28",
+        "os": "mac",
+        "production_date": "13.07.2022",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "04.07.2026",
+        "mac": "30:1d:7d:90:f2:43",
+        "model": "i435",
+        "number": "26",
+        "os": "mac",
+        "production_date": "30.08.2019",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "27.09.2032",
+        "mac": "ce:e7:1d:2d:b2:4a",
+        "model": "i069",
+        "number": "100",
+        "os": "windows",
+        "production_date": "22.06.2017",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "24.09.2029",
+        "mac": "36:0f:95:81:61:a5",
+        "model": "i150",
+        "number": "23",
+        "os": "windows",
+        "production_date": "19.09.2020",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "16.01.2026",
+        "mac": "2a:90:61:7f:bc:a5",
+        "model": "i730",
+        "number": "93",
+        "os": "mac",
+        "production_date": "19.03.2019",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "01.07.2029",
+        "mac": "5c:56:c7:22:f9:37",
+        "model": "i485",
+        "number": "7",
+        "os": "mac",
+        "production_date": "03.05.2018",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "01.09.2026",
+        "mac": "50:d3:fb:9b:44:11",
+        "model": "i018",
+        "number": "29",
+        "os": "linux",
+        "production_date": "01.12.2021",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "20.06.2026",
+        "mac": "52:af:d8:68:f4:64",
+        "model": "i748",
+        "number": "56",
+        "os": "windows",
+        "production_date": "31.03.2021",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "05.04.2032",
+        "mac": "86:63:b6:36:ca:46",
+        "model": "i957",
+        "number": "14",
+        "os": "windows",
+        "production_date": "20.09.2024",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "21.08.2034",
+        "mac": "22:c0:c1:52:b8:5b",
+        "model": "i537",
+        "number": "98",
+        "os": "linux",
+        "production_date": "24.06.2015",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "07.06.2028",
+        "mac": "e2:49:70:5c:80:24",
+        "model": "i766",
+        "number": "36",
+        "os": "linux",
+        "production_date": "09.08.2021",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "16.02.2030",
+        "mac": "e6:7e:fa:24:19:7e",
+        "model": "i297",
+        "number": "45",
+        "os": "mac",
+        "production_date": "03.09.2018",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "14.07.2031",
+        "mac": "fa:25:21:31:8b:ba",
+        "model": "i076",
+        "number": "46",
+        "os": "mac",
+        "production_date": "05.06.2023",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "07.10.2028",
+        "mac": "ce:3d:4b:6e:f1:32",
+        "model": "i212",
+        "number": "9",
+        "os": "linux",
+        "production_date": "12.12.2021",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "16.07.2032",
+        "mac": "a6:81:8a:cf:2a:e9",
+        "model": "i544",
+        "number": "20",
+        "os": "mac",
+        "production_date": "01.04.2019",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "10.04.2031",
+        "mac": "9a:33:bd:da:29:63",
+        "model": "i776",
+        "number": "19",
+        "os": "linux",
+        "production_date": "11.09.2022",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "12.11.2027",
+        "mac": "9a:b2:19:c9:a4:ae",
+        "model": "i746",
+        "number": "92",
+        "os": "linux",
+        "production_date": "24.01.2024",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "05.01.2026",
+        "mac": "52:17:d6:d7:06:81",
+        "model": "i671",
+        "number": "52",
+        "os": "mac",
+        "production_date": "24.12.2016",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "12.05.2026",
+        "mac": "92:ea:88:7a:dc:c3",
+        "model": "i961",
+        "number": "62",
+        "os": "windows",
+        "production_date": "12.05.2016",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "05.08.2033",
+        "mac": "82:95:1e:fe:fe:0a",
+        "model": "i904",
+        "number": "98",
+        "os": "windows",
+        "production_date": "24.09.2024",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "21.03.2026",
+        "mac": "20:dc:cc:52:ba:cd",
+        "model": "i452",
+        "number": "82",
+        "os": "windows",
+        "production_date": "19.08.2022",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "10.11.2026",
+        "mac": "40:3e:67:0e:d0:ad",
+        "model": "i990",
+        "number": "35",
+        "os": "windows",
+        "production_date": "23.10.2016",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "29.06.2027",
+        "mac": "78:86:2b:e4:22:78",
+        "model": "i801",
+        "number": "69",
+        "os": "linux",
+        "production_date": "15.10.2021",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "20.12.2033",
+        "mac": "34:a4:6e:f9:40:60",
+        "model": "i241",
+        "number": "59",
+        "os": "windows",
+        "production_date": "25.08.2016",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "11.07.2026",
+        "mac": "66:fd:b2:1c:22:f4",
+        "model": "i463",
+        "number": "26",
+        "os": "linux",
+        "production_date": "14.05.2016",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "27.06.2026",
+        "mac": "92:67:ea:de:fa:0d",
+        "model": "i049",
+        "number": "91",
+        "os": "mac",
+        "production_date": "26.10.2024",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "25.09.2029",
+        "mac": "84:92:64:a3:5c:5f",
+        "model": "i198",
+        "number": "15",
+        "os": "windows",
+        "production_date": "03.11.2018",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "01.02.2028",
+        "mac": "80:4d:2b:33:8a:05",
+        "model": "i919",
+        "number": "92",
+        "os": "mac",
+        "production_date": "22.06.2022",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "10.06.2033",
+        "mac": "fc:a1:ab:42:47:54",
+        "model": "i564",
+        "number": "34",
+        "os": "linux",
+        "production_date": "12.02.2024",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "12.12.2033",
+        "mac": "8e:08:d6:0f:89:58",
+        "model": "i453",
+        "number": "95",
+        "os": "windows",
+        "production_date": "06.08.2016",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "22.12.2025",
+        "mac": "c6:fe:25:6b:04:f8",
+        "model": "i105",
+        "number": "63",
+        "os": "mac",
+        "production_date": "30.10.2017",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "21.07.2028",
+        "mac": "c4:8d:f9:33:83:2c",
+        "model": "i983",
+        "number": "13",
+        "os": "linux",
+        "production_date": "01.10.2020",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "30.11.2029",
+        "mac": "26:87:7f:e2:47:15",
+        "model": "i015",
+        "number": "98",
+        "os": "mac",
+        "production_date": "27.12.2016",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "14.09.2027",
+        "mac": "70:e7:10:3e:58:d6",
+        "model": "i833",
+        "number": "16",
+        "os": "linux",
+        "production_date": "15.07.2018",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "14.10.2034",
+        "mac": "68:a9:74:1f:97:84",
+        "model": "i703",
+        "number": "35",
+        "os": "linux",
+        "production_date": "07.04.2018",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "10.08.2026",
+        "mac": "e8:f2:f2:b1:47:1c",
+        "model": "i744",
+        "number": "60",
+        "os": "windows",
+        "production_date": "27.02.2017",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "19.10.2030",
+        "mac": "1c:aa:c7:7e:6a:db",
+        "model": "i789",
+        "number": "62",
+        "os": "mac",
+        "production_date": "22.12.2018",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "17.08.2029",
+        "mac": "d6:71:e4:1e:b0:d0",
+        "model": "i842",
+        "number": "41",
+        "os": "windows",
+        "production_date": "29.08.2020",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "23.06.2026",
+        "mac": "ec:df:f6:8e:8d:7d",
+        "model": "i543",
+        "number": "100",
+        "os": "mac",
+        "production_date": "03.08.2015",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "20.04.2033",
+        "mac": "10:e5:96:db:77:2b",
+        "model": "i525",
+        "number": "72",
+        "os": "mac",
+        "production_date": "09.04.2019",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "08.07.2032",
+        "mac": "36:2c:48:ec:38:93",
+        "model": "i416",
+        "number": "34",
+        "os": "windows",
+        "production_date": "01.06.2024",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "15.02.2027",
+        "mac": "dc:af:c6:ee:f9:16",
+        "model": "i689",
+        "number": "21",
+        "os": "windows",
+        "production_date": "12.08.2023",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "06.02.2033",
+        "mac": "1a:54:28:23:d7:f9",
+        "model": "i856",
+        "number": "2",
+        "os": "mac",
+        "production_date": "19.12.2022",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "25.11.2027",
+        "mac": "ae:21:50:dc:05:7f",
+        "model": "i095",
+        "number": "19",
+        "os": "mac",
+        "production_date": "01.06.2023",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "06.07.2027",
+        "mac": "fa:d7:86:bf:05:5a",
+        "model": "i428",
+        "number": "39",
+        "os": "windows",
+        "production_date": "09.09.2019",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "16.01.2030",
+        "mac": "92:23:e6:0b:a8:4f",
+        "model": "i374",
+        "number": "57",
+        "os": "linux",
+        "production_date": "01.08.2017",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "10.08.2031",
+        "mac": "4e:09:f1:72:89:e6",
+        "model": "i681",
+        "number": "76",
+        "os": "windows",
+        "production_date": "26.09.2017",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "13.01.2029",
+        "mac": "f8:e3:1e:45:e6:86",
+        "model": "i365",
+        "number": "78",
+        "os": "linux",
+        "production_date": "29.03.2024",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "06.01.2029",
+        "mac": "4e:fe:9a:9b:99:e5",
+        "model": "i219",
+        "number": "31",
+        "os": "linux",
+        "production_date": "05.09.2018",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "03.01.2034",
+        "mac": "8a:a4:68:1b:2d:2c",
+        "model": "i522",
+        "number": "9",
+        "os": "windows",
+        "production_date": "30.08.2023",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "05.05.2030",
+        "mac": "28:06:ad:fd:50:5a",
+        "model": "i785",
+        "number": "15",
+        "os": "linux",
+        "production_date": "01.03.2024",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "28.07.2033",
+        "mac": "b2:1c:36:c7:1e:76",
+        "model": "i537",
+        "number": "99",
+        "os": "windows",
+        "production_date": "01.12.2018",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "15.11.2033",
+        "mac": "6e:05:af:49:dc:5f",
+        "model": "i450",
+        "number": "30",
+        "os": "linux",
+        "production_date": "22.01.2019",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "02.01.2032",
+        "mac": "26:b6:99:22:77:f4",
+        "model": "i514",
+        "number": "76",
+        "os": "windows",
+        "production_date": "26.03.2021",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "03.08.2034",
+        "mac": "28:f7:da:f1:f2:62",
+        "model": "i882",
+        "number": "62",
+        "os": "mac",
+        "production_date": "29.08.2015",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "22.09.2027",
+        "mac": "d4:67:00:b0:76:0f",
+        "model": "i969",
+        "number": "12",
+        "os": "windows",
+        "production_date": "09.12.2019",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "07.08.2030",
+        "mac": "da:e4:ef:6c:74:04",
+        "model": "i727",
+        "number": "21",
+        "os": "mac",
+        "production_date": "01.02.2017",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "11.06.2029",
+        "mac": "50:55:cf:c5:4d:21",
+        "model": "i288",
+        "number": "21",
+        "os": "linux",
+        "production_date": "01.05.2017",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "03.07.2027",
+        "mac": "2a:fe:90:2d:9a:37",
+        "model": "i180",
+        "number": "16",
+        "os": "windows",
+        "production_date": "06.04.2016",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "30.10.2027",
+        "mac": "9a:97:87:b2:d5:11",
+        "model": "i982",
+        "number": "39",
+        "os": "windows",
+        "production_date": "25.12.2014",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "02.03.2032",
+        "mac": "ba:c6:70:54:3a:90",
+        "model": "i768",
+        "number": "80",
+        "os": "mac",
+        "production_date": "19.12.2014",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "22.11.2029",
+        "mac": "c2:44:f7:dc:99:cd",
+        "model": "i180",
+        "number": "33",
+        "os": "windows",
+        "production_date": "29.08.2020",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "23.10.2031",
+        "mac": "e8:04:6b:b1:40:57",
+        "model": "i585",
+        "number": "71",
+        "os": "linux",
+        "production_date": "07.12.2016",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "11.01.2029",
+        "mac": "8e:17:7b:e1:76:8c",
+        "model": "i085",
+        "number": "39",
+        "os": "mac",
+        "production_date": "02.02.2021",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "30.01.2031",
+        "mac": "1a:09:d5:4c:73:36",
+        "model": "i524",
+        "number": "77",
+        "os": "mac",
+        "production_date": "05.12.2024",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "21.09.2032",
+        "mac": "28:5f:47:b0:53:9c",
+        "model": "i940",
+        "number": "18",
+        "os": "mac",
+        "production_date": "04.02.2019",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "25.07.2026",
+        "mac": "3e:56:79:4b:18:ba",
+        "model": "i152",
+        "number": "32",
+        "os": "windows",
+        "production_date": "29.07.2023",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "10.04.2030",
+        "mac": "a6:53:72:e3:12:14",
+        "model": "i224",
+        "number": "67",
+        "os": "mac",
+        "production_date": "04.08.2021",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "18.06.2030",
+        "mac": "a6:31:16:f8:03:a5",
+        "model": "i142",
+        "number": "12",
+        "os": "linux",
+        "production_date": "24.01.2021",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "28.08.2027",
+        "mac": "18:82:38:6a:e5:96",
+        "model": "i566",
+        "number": "62",
+        "os": "mac",
+        "production_date": "01.12.2022",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "19.08.2034",
+        "mac": "44:15:de:b5:e6:b4",
+        "model": "i202",
+        "number": "96",
+        "os": "windows",
+        "production_date": "14.12.2017",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "10.06.2033",
+        "mac": "32:02:fc:c6:3f:b2",
+        "model": "i531",
+        "number": "90",
+        "os": "linux",
+        "production_date": "24.07.2016",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "27.08.2033",
+        "mac": "0e:c7:b2:74:eb:d9",
+        "model": "i347",
+        "number": "18",
+        "os": "windows",
+        "production_date": "08.03.2017",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "09.11.2030",
+        "mac": "56:f1:18:ad:39:fd",
+        "model": "i104",
+        "number": "41",
+        "os": "windows",
+        "production_date": "25.05.2021",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "15.12.2028",
+        "mac": "5e:1c:d6:41:bf:7b",
+        "model": "i531",
+        "number": "18",
+        "os": "linux",
+        "production_date": "21.05.2020",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "26.09.2027",
+        "mac": "c0:91:02:c1:f6:2b",
+        "model": "i766",
+        "number": "91",
+        "os": "linux",
+        "production_date": "06.05.2015",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "01.08.2027",
+        "mac": "72:08:3a:49:a2:e2",
+        "model": "i825",
+        "number": "23",
+        "os": "linux",
+        "production_date": "06.01.2021",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "03.05.2030",
+        "mac": "a8:f2:79:65:2b:fb",
+        "model": "i461",
+        "number": "68",
+        "os": "mac",
+        "production_date": "10.03.2017",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "06.10.2034",
+        "mac": "94:7e:a4:22:9d:42",
+        "model": "i535",
+        "number": "2",
+        "os": "linux",
+        "production_date": "19.12.2019",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "14.12.2026",
+        "mac": "6a:36:c3:a8:21:6d",
+        "model": "i115",
+        "number": "50",
+        "os": "linux",
+        "production_date": "24.05.2015",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "24.10.2026",
+        "mac": "18:e9:97:d0:de:65",
+        "model": "i362",
+        "number": "17",
+        "os": "windows",
+        "production_date": "08.05.2022",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "13.01.2033",
+        "mac": "2a:e5:61:e6:f8:23",
+        "model": "i577",
+        "number": "18",
+        "os": "windows",
+        "production_date": "24.12.2017",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "01.05.2031",
+        "mac": "86:3a:f4:a4:8e:ad",
+        "model": "i967",
+        "number": "7",
+        "os": "windows",
+        "production_date": "23.05.2019",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "05.03.2034",
+        "mac": "4e:a8:b9:31:15:0e",
+        "model": "i816",
+        "number": "54",
+        "os": "linux",
+        "production_date": "01.09.2018",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "22.05.2029",
+        "mac": "d4:c9:a5:79:8f:04",
+        "model": "i105",
+        "number": "50",
+        "os": "windows",
+        "production_date": "05.09.2023",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "05.04.2028",
+        "mac": "70:e1:34:6a:9d:36",
+        "model": "i860",
+        "number": "98",
+        "os": "linux",
+        "production_date": "14.04.2015",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "04.08.2026",
+        "mac": "b2:93:ab:9b:9b:6b",
+        "model": "i509",
+        "number": "12",
+        "os": "linux",
+        "production_date": "24.09.2017",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "15.09.2028",
+        "mac": "3c:e7:40:e4:78:2d",
+        "model": "i678",
+        "number": "38",
+        "os": "linux",
+        "production_date": "21.07.2019",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "14.01.2029",
+        "mac": "a0:05:79:9a:aa:bf",
+        "model": "i970",
+        "number": "37",
+        "os": "windows",
+        "production_date": "16.06.2018",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "29.10.2030",
+        "mac": "d2:c9:55:7b:d2:20",
+        "model": "i922",
+        "number": "60",
+        "os": "mac",
+        "production_date": "16.01.2020",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "19.10.2027",
+        "mac": "ae:b4:74:44:e1:38",
+        "model": "i109",
+        "number": "61",
+        "os": "mac",
+        "production_date": "20.03.2024",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "20.05.2028",
+        "mac": "4c:41:f9:f3:6d:9a",
+        "model": "i749",
+        "number": "70",
+        "os": "linux",
+        "production_date": "14.08.2024",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "08.02.2026",
+        "mac": "bc:e9:aa:70:2e:f1",
+        "model": "i598",
+        "number": "18",
+        "os": "windows",
+        "production_date": "12.07.2024",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "05.08.2034",
+        "mac": "66:41:80:63:13:b3",
+        "model": "i633",
+        "number": "37",
+        "os": "linux",
+        "production_date": "08.03.2018",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "26.09.2028",
+        "mac": "e8:bc:1d:b5:77:50",
+        "model": "i778",
+        "number": "72",
+        "os": "linux",
+        "production_date": "08.01.2021",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "23.01.2032",
+        "mac": "1a:81:0c:3e:4a:2c",
+        "model": "i018",
+        "number": "45",
+        "os": "linux",
+        "production_date": "22.01.2024",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "29.05.2029",
+        "mac": "a0:60:8f:3f:d3:cc",
+        "model": "i081",
+        "number": "54",
+        "os": "windows",
+        "production_date": "14.06.2018",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "22.09.2026",
+        "mac": "60:26:e6:e7:a0:83",
+        "model": "i225",
+        "number": "85",
+        "os": "windows",
+        "production_date": "11.08.2019",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "28.06.2032",
+        "mac": "dc:6d:9d:dd:da:3f",
+        "model": "i093",
+        "number": "41",
+        "os": "mac",
+        "production_date": "28.06.2023",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "20.08.2032",
+        "mac": "70:24:3e:85:97:c2",
+        "model": "i991",
+        "number": "3",
+        "os": "linux",
+        "production_date": "31.05.2023",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "01.02.2027",
+        "mac": "88:bb:33:8c:e9:4d",
+        "model": "i816",
+        "number": "49",
+        "os": "linux",
+        "production_date": "07.05.2021",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "29.02.2028",
+        "mac": "e4:eb:c8:8e:f9:c0",
+        "model": "i801",
+        "number": "74",
+        "os": "windows",
+        "production_date": "22.10.2018",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "06.12.2029",
+        "mac": "2a:b8:2a:57:34:3d",
+        "model": "i172",
+        "number": "57",
+        "os": "linux",
+        "production_date": "08.06.2023",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "26.01.2029",
+        "mac": "04:08:cb:71:62:22",
+        "model": "i996",
+        "number": "46",
+        "os": "mac",
+        "production_date": "26.04.2015",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "21.07.2031",
+        "mac": "ec:ef:a3:df:42:23",
+        "model": "i274",
+        "number": "36",
+        "os": "linux",
+        "production_date": "13.10.2019",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "21.06.2026",
+        "mac": "50:9c:20:86:44:fa",
+        "model": "i751",
+        "number": "45",
+        "os": "linux",
+        "production_date": "12.07.2020",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "22.10.2026",
+        "mac": "a4:f1:d7:f0:97:28",
+        "model": "i876",
+        "number": "53",
+        "os": "windows",
+        "production_date": "04.04.2015",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "13.09.2027",
+        "mac": "d6:dd:1d:3f:87:45",
+        "model": "i280",
+        "number": "99",
+        "os": "mac",
+        "production_date": "22.12.2014",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "19.04.2027",
+        "mac": "72:e0:8d:02:1c:d3",
+        "model": "i962",
+        "number": "99",
+        "os": "linux",
+        "production_date": "15.06.2016",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "28.09.2028",
+        "mac": "8e:ce:35:ec:75:c2",
+        "model": "i835",
+        "number": "21",
+        "os": "windows",
+        "production_date": "11.03.2017",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "22.05.2026",
+        "mac": "26:67:6e:d3:35:c9",
+        "model": "i975",
+        "number": "55",
+        "os": "windows",
+        "production_date": "24.03.2020",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "02.12.2032",
+        "mac": "da:f3:88:6d:e1:f6",
+        "model": "i334",
+        "number": "91",
+        "os": "linux",
+        "production_date": "22.02.2024",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "29.06.2029",
+        "mac": "1e:cb:56:b1:c5:fe",
+        "model": "i618",
+        "number": "61",
+        "os": "mac",
+        "production_date": "02.05.2023",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "08.12.2030",
+        "mac": "88:c5:02:e5:fe:4c",
+        "model": "i339",
+        "number": "15",
+        "os": "linux",
+        "production_date": "10.07.2018",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "19.03.2032",
+        "mac": "30:4e:3c:2b:32:2b",
+        "model": "i098",
+        "number": "90",
+        "os": "linux",
+        "production_date": "16.03.2019",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "27.05.2027",
+        "mac": "d2:c4:5b:0b:ac:3c",
+        "model": "i737",
+        "number": "62",
+        "os": "linux",
+        "production_date": "24.02.2022",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "17.10.2026",
+        "mac": "ac:6c:fc:8a:f2:f3",
+        "model": "i523",
+        "number": "17",
+        "os": "mac",
+        "production_date": "01.06.2024",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "18.11.2028",
+        "mac": "bc:3e:d2:db:cf:8d",
+        "model": "i493",
+        "number": "81",
+        "os": "windows",
+        "production_date": "19.10.2022",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "18.08.2033",
+        "mac": "8c:5c:59:fb:3d:02",
+        "model": "i795",
+        "number": "75",
+        "os": "mac",
+        "production_date": "02.07.2019",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "03.04.2027",
+        "mac": "c8:1e:07:ad:41:ee",
+        "model": "i541",
+        "number": "27",
+        "os": "windows",
+        "production_date": "15.09.2024",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "24.06.2029",
+        "mac": "36:0b:9b:ac:78:49",
+        "model": "i558",
+        "number": "2",
+        "os": "mac",
+        "production_date": "26.10.2017",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "08.02.2033",
+        "mac": "b4:a3:9e:15:a0:ad",
+        "model": "i885",
+        "number": "15",
+        "os": "windows",
+        "production_date": "05.09.2017",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "06.01.2030",
+        "mac": "66:e5:6e:21:05:db",
+        "model": "i354",
+        "number": "42",
+        "os": "mac",
+        "production_date": "02.02.2021",
+        "supplier": "AMD",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "10.02.2028",
+        "mac": "f8:4c:a4:90:77:38",
+        "model": "i095",
+        "number": "14",
+        "os": "mac",
+        "production_date": "15.10.2020",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "25.11.2031",
+        "mac": "0c:76:1c:7d:b4:fb",
+        "model": "i437",
+        "number": "12",
+        "os": "linux",
+        "production_date": "31.05.2017",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "01.03.2032",
+        "mac": "24:07:a7:fe:91:c5",
+        "model": "i765",
+        "number": "98",
+        "os": "linux",
+        "production_date": "04.10.2016",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "11.12.2028",
+        "mac": "c6:96:d8:c0:f6:fe",
+        "model": "i404",
+        "number": "49",
+        "os": "linux",
+        "production_date": "04.12.2019",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "18.11.2032",
+        "mac": "2e:c7:f7:36:f7:53",
+        "model": "i010",
+        "number": "99",
+        "os": "linux",
+        "production_date": "07.06.2016",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "27.02.2028",
+        "mac": "6c:e9:ca:2a:99:9d",
+        "model": "i098",
+        "number": "90",
+        "os": "linux",
+        "production_date": "05.10.2021",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "19.09.2026",
+        "mac": "f2:d5:4f:74:1f:31",
+        "model": "i256",
+        "number": "84",
+        "os": "windows",
+        "production_date": "28.09.2019",
+        "supplier": "Intel",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "25.05.2026",
+        "mac": "50:8d:e3:dd:38:64",
+        "model": "i716",
+        "number": "74",
+        "os": "linux",
+        "production_date": "07.12.2017",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "02.11.2031",
+        "mac": "60:38:aa:de:45:b8",
+        "model": "i666",
+        "number": "8",
+        "os": "mac",
+        "production_date": "26.03.2016",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "13.03.2027",
+        "mac": "a0:d0:c5:b7:2d:76",
+        "model": "i998",
+        "number": "12",
+        "os": "linux",
+        "production_date": "27.05.2018",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "26.11.2029",
+        "mac": "18:d2:6a:5e:c8:ae",
+        "model": "i488",
+        "number": "89",
+        "os": "windows",
+        "production_date": "02.08.2017",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "07.04.2033",
+        "mac": "e4:13:f9:5c:eb:4c",
+        "model": "i616",
+        "number": "54",
+        "os": "linux",
+        "production_date": "12.10.2016",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "23.05.2032",
+        "mac": "d8:cf:d7:38:d5:fa",
+        "model": "i177",
+        "number": "83",
+        "os": "windows",
+        "production_date": "15.05.2015",
+        "supplier": "Intel",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "27.09.2026",
+        "mac": "22:88:48:9c:a2:c2",
+        "model": "i305",
+        "number": "76",
+        "os": "windows",
+        "production_date": "21.10.2016",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "03.03.2029",
+        "mac": "90:85:2e:65:49:cc",
+        "model": "i889",
+        "number": "11",
+        "os": "linux",
+        "production_date": "26.11.2018",
+        "supplier": "NVIDIA",
+        "type": "desktop"
+    },
+    {
+        "end_of_life_date": "22.06.2028",
+        "mac": "76:5f:01:d8:bf:38",
+        "model": "i211",
+        "number": "69",
+        "os": "windows",
+        "production_date": "18.05.2024",
+        "supplier": "Intel",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "26.06.2026",
+        "mac": "0c:23:61:f9:63:35",
+        "model": "i822",
+        "number": "86",
+        "os": "linux",
+        "production_date": "21.02.2023",
+        "supplier": "NVIDIA",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "06.08.2028",
+        "mac": "50:34:b8:6c:ad:af",
+        "model": "i938",
+        "number": "18",
+        "os": "windows",
+        "production_date": "18.05.2015",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "28.11.2026",
+        "mac": "3a:44:2d:72:56:f3",
+        "model": "i263",
+        "number": "38",
+        "os": "mac",
+        "production_date": "31.08.2019",
+        "supplier": "AMD",
+        "type": "server"
+    },
+    {
+        "end_of_life_date": "21.05.2032",
+        "mac": "14:3b:13:9d:6c:19",
+        "model": "i021",
+        "number": "9",
+        "os": "linux",
+        "production_date": "18.05.2019",
+        "supplier": "AMD",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "10.08.2026",
+        "mac": "5c:5d:81:b8:ff:b0",
+        "model": "i863",
+        "number": "38",
+        "os": "linux",
+        "production_date": "26.08.2015",
+        "supplier": "NVIDIA",
+        "type": "laptop"
+    },
+    {
+        "end_of_life_date": "11.02.2029",
+        "mac": "e2:d9:c0:63:3f:f3",
+        "model": "i365",
+        "number": "75",
+        "os": "linux",
+        "production_date": "05.10.2021",
+        "supplier": "AMD",
+        "type": "server"
     }
 ]
