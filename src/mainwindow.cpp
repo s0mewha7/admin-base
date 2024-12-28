@@ -52,11 +52,13 @@ void MainWindow::setupUi() {
     m_addRowButton = new QPushButton("Add", this);
     m_saveButton = new QPushButton("Save", this);
     m_deleteButton = new QPushButton("Delete", this);
+    m_backupButton = new QPushButton("Backup", this);
 
     layout->addWidget(m_tableView);
     layout->addWidget(m_addRowButton);
     layout->addWidget(m_deleteButton);
     layout->addWidget(m_saveButton);
+    layout->addWidget(m_backupButton);
 
     setCentralWidget(centralWidget);
 

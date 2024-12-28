@@ -1,5 +1,6 @@
 #include "database.h"
 #include <QDebug>
+#include <QRegularExpression>
 
 DataModel::DataModel(QObject* parent)
         : QAbstractTableModel(parent) {}
@@ -26,6 +27,59 @@ QVariant DataModel::data(const QModelIndex& index, int role) const {
 bool DataModel::setData(const QModelIndex& index, const QVariant& value, int role) {
     if (!index.isValid() || index.row() >= m_data.size() || index.column() >= m_headers.size() || role != Qt::EditRole)
         return false;
+
+    QString inputValue = value.toString();
+    QString currentHeader = m_headers[index.column()];
+
+    QRegularExpression emojiRegex("[\\x{1F600}-\\x{1F64F}"
+                                  "|\\x{1F300}-\\x{1F5FF}"
+                                  "|\\x{1F680}-\\x{1F6FF}"
+                                  "|\\x{1F700}-\\x{1F77F}"
+                                  "|\\x{1F780}-\\x{1F7FF}"
+                                  "|\\x{1F800}-\\x{1F8FF}"
+                                  "|\\x{1F900}-\\x{1F9FF}"
+                                  "|\\x{1FA00}-\\x{1FAFF}"
+                                  "|\\x{2600}-\\x{26FF}"
+                                  "|\\x{2700}-\\x{27BF}]+");
+
+    if (emojiRegex.match(inputValue).hasMatch()) {
+        qWarning() << "Emojis are not allowed.";
+        return false;
+    }
+
+    if (currentHeader == "mac") {
+        QRegularExpression macRegex(
+                "^(?:[0-9A-Fa-f]{2}[:-]?){5}[0-9A-Fa-f]{2}$|^([0-9A-Fa-f]{12})$|^([0-9A-Fa-f]{2}[ ]?){5}([0-9A-Fa-f]{2})$");
+        if (!macRegex.match(inputValue).hasMatch()) {
+            qWarning() << "Invalid MAC address format.";
+            return false;
+        }
+    }
+
+    if (currentHeader == "end_of_life_date") {  // Убедитесь, что заголовок настроен правильно
+        QRegularExpression dateRegex(R"(^(\d{4}-\d{2}-\d{2})$|^(\d{2}\.\d{2}\.\d{4})$|^(\d{2}/\d{2}/\d{4})$)");
+
+        if (dateRegex.match(inputValue).hasMatch()) {
+            QDate date;
+
+            if (inputValue.contains('-')) {
+                date = QDate::fromString(inputValue, "yyyy-MM-dd");
+            } else if (inputValue.contains('.')) {
+                date = QDate::fromString(inputValue, "dd.MM.yyyy");
+            } else if (inputValue.contains('/')) {
+                date = QDate::fromString(inputValue, "MM/dd/yyyy");
+            }
+
+            if (!date.isValid()) {
+                qWarning() << "Invalid date:" << inputValue;
+                return false;
+            }
+        } else {
+            qWarning() << "Invalid date format for value:" << inputValue;
+            return false;
+        }
+    }
+
 
     QJsonObject obj = m_data[index.row()].toObject();
     obj[m_headers[index.column()]] = QJsonValue::fromVariant(value);
@@ -105,7 +159,7 @@ void DataModel::addRow() {
 
     QJsonObject newRow;
     for (const QString& header : m_headers) {
-        newRow[header] = ""; // Заполняем пустыми значениями
+        newRow[header] = "";
     }
     m_data.append(newRow);
 

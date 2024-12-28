@@ -8,9 +8,7 @@ LoginWindow::LoginWindow(QWidget* parent) : QWidget(parent) {
 void LoginWindow::setupUi() {
     setWindowTitle("Login");
     resize(300, 150);
-
     auto* layout = new QVBoxLayout(this);
-
     auto* usernameLayout = new QHBoxLayout();
     auto* usernameLabel = new QLabel("Username:", this);
     m_usernameEdit = new QLineEdit(this);
@@ -36,12 +34,10 @@ void LoginWindow::setupUi() {
 }
 
 void LoginWindow::attemptLogin() {
-    const QString username = m_usernameEdit->text();
-    const QString password = m_passwordEdit->text();
+    const QString username = m_usernameEdit->text().trimmed();
+    const QString password = m_passwordEdit->text().trimmed();
 
     if (username == "admin" && password == "admin") {
-        QMessageBox::information(this, "Success", "Login successful!");
-
         auto* mainWindow = new MainWindow();
         mainWindow->resize(800, 600);
         mainWindow->show();

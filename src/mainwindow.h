@@ -19,6 +19,7 @@ private:
     QPushButton* m_addRowButton;
     QPushButton* m_saveButton;
     QPushButton* m_deleteButton;
+    QPushButton* m_backupButton;
     QFileSystemWatcher* m_watcher;
 
     void setupUi();
